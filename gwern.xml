@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2022-12-04T05:36:53.236Z</updated>
+    <updated>2022-12-05T05:36:41.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,83 +10,83 @@
         <id>https://www.gwern.net/Problem-14</id>
         <link href="https://www.gwern.net/Problem-14"/>
         <updated>2022-11-08T15:52:31.778Z</updated>
-        <content type="html"><![CDATA[<a href="/Problem-14" id="problem-14-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Problem 14 Dynamic Programming Solutions’, Branwen et al 2022" data-link-icon-type="text" data-link-icon="𝔊">Solving Gambling Problem #14 Fast</a>]]></content>
+        <content type="html"><![CDATA[<a href="/Problem-14" id="problem-14-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Problem 14 Dynamic Programming Solutions’, Branwen et al 2022">Solving Gambling Problem #14 Fast</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Do Hipsters Steal Stuff?]]></title>
         <id>https://www.gwern.net/LARPing</id>
         <link href="https://www.gwern.net/LARPing"/>
         <updated>2022-11-08T15:52:31.779Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.gwern.net/LARPing" id="larp-newest" class="link-live link-annotated link-page has-annotation spawns-popin" title="'Why Do Hipsters Steal Stuff?', Branwen 2022" data-link-icon-type="text" data-link-icon="𝔊">Why Do Hipsters Steal Stuff?</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://www.gwern.net/LARPing" id="larp-newest" class="link-live link-annotated link-page has-annotation spawns-popin" title="'Why Do Hipsters Steal Stuff?', Branwen 2022">Why Do Hipsters Steal Stuff?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Critical Reading: Fake Journal Club]]></title>
         <id>https://www.gwern.net/Fake-Journal-Club</id>
         <link href="https://www.gwern.net/Fake-Journal-Club"/>
         <updated>2022-11-08T15:52:31.779Z</updated>
-        <content type="html"><![CDATA[<a href="/Fake-Journal-Club" id="gwern-fake-journal-club" class="link-annotated link-page has-annotation spawns-popin" title="‘Fake Journal Club: Teaching Critical Reading’, Branwen 2022" data-link-icon-type="text" data-link-icon="𝔊">Critical Reading: Fake Journal Club</a>]]></content>
+        <content type="html"><![CDATA[<a href="/Fake-Journal-Club" id="gwern-fake-journal-club" class="link-annotated link-page has-annotation spawns-popin" title="‘Fake Journal Club: Teaching Critical Reading’, Branwen 2022">Critical Reading: Fake Journal Club</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Looks Like You’re Taking Over The World]]></title>
         <id>https://www.gwern.net/fiction/Clippy</id>
         <link href="https://www.gwern.net/fiction/Clippy"/>
         <updated>2022-11-08T15:52:31.779Z</updated>
-        <content type="html"><![CDATA[<a href="/fiction/Clippy" id="clippy-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘It Looks Like You’re Trying To Take Over The World’, Branwen 2022" data-link-icon-type="text" data-link-icon="𝔊">Looks Like You’re Taking Over The World</a>]]></content>
+        <content type="html"><![CDATA[<a href="/fiction/Clippy" id="clippy-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘It Looks Like You’re Trying To Take Over The World’, Branwen 2022">Looks Like You’re Taking Over The World</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[June 2021 Newsletter]]></title>
         <id>https://www.gwern.net/newsletter/2021/06</id>
         <link href="https://www.gwern.net/newsletter/2021/06"/>
         <updated>2022-11-08T15:52:31.779Z</updated>
-        <content type="html"><![CDATA[<a href="/newsletter/2021/06" id="gwern-newsletter-2021-06" class="link-annotated link-page has-annotation spawns-popin" title="'June 2021 News', Branwen 2020" data-link-icon-type="text" data-link-icon="𝔊">June 2021 Newsletter</a>]]></content>
+        <content type="html"><![CDATA[<a href="/newsletter/2021/06" id="gwern-newsletter-2021-06" class="link-annotated link-page has-annotation spawns-popin" title="'June 2021 News', Branwen 2020">June 2021 Newsletter</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘Screwfly Solution’ Solution]]></title>
         <id>https://www.gwern.net/Screwfly</id>
         <link href="https://www.gwern.net/Screwfly"/>
         <updated>2022-11-08T15:52:31.779Z</updated>
-        <content type="html"><![CDATA[<a href="/Screwfly" id="screwfly-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The ‘Screwfly Solution’ Solution: Bi-Sexuality', Branwen 2021" data-link-icon-type="text" data-link-icon="𝔊">‘Screwfly Solution’ Solution</a>]]></content>
+        <content type="html"><![CDATA[<a href="/Screwfly" id="screwfly-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The ‘Screwfly Solution’ Solution: Bi-Sexuality', Branwen 2021">‘Screwfly Solution’ Solution</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Math Of Hunting Lions]]></title>
         <id>https://www.gwern.net/notes/Lions</id>
         <link href="https://www.gwern.net/notes/Lions"/>
         <updated>2022-11-08T15:52:31.779Z</updated>
-        <content type="html"><![CDATA[<a href="/notes/Lions" id="lions-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Math of Hunting Lions', Branwen 2021" data-link-icon-type="text" data-link-icon="𝔊">The Math Of Hunting Lions</a>]]></content>
+        <content type="html"><![CDATA[<a href="/notes/Lions" id="lions-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Math of Hunting Lions', Branwen 2021">The Math Of Hunting Lions</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CO2 Coin: Carbon Capture]]></title>
         <id>https://www.gwern.net/CO2-Coin</id>
         <link href="https://www.gwern.net/CO2-Coin"/>
         <updated>2022-11-08T15:52:31.779Z</updated>
-        <content type="html"><![CDATA[<a href="/CO2-Coin" id="co2-coin-newest" class="link-annotated link-page has-annotation spawns-popin" title="'CO₂ Coin: Decentralized Carbon Capture Blockchains', Branwen 2021" data-link-icon-type="text" data-link-icon="𝔊">CO<sub>2</sub> Coin: Carbon Capture</a>]]></content>
+        <content type="html"><![CDATA[<a href="/CO2-Coin" id="co2-coin-newest" class="link-annotated link-page has-annotation spawns-popin" title="'CO₂ Coin: Decentralized Carbon Capture Blockchains', Branwen 2021">CO<sub>2</sub> Coin: Carbon Capture</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some Startup Ideas]]></title>
         <id>https://www.gwern.net/Startup-ideas</id>
         <link href="https://www.gwern.net/Startup-ideas"/>
         <updated>2022-11-08T15:52:31.786Z</updated>
-        <content type="html"><![CDATA[<a href="/Startup-ideas" id="startup-ideas-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Startup Ideas', Branwen 2017" data-link-icon-type="text" data-link-icon="𝔊">Some Startup Ideas</a>]]></content>
+        <content type="html"><![CDATA[<a href="/Startup-ideas" id="startup-ideas-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Startup Ideas', Branwen 2017">Some Startup Ideas</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[May 2021 Newsletter]]></title>
         <id>https://www.gwern.net/newsletter/2021/05</id>
         <link href="https://www.gwern.net/newsletter/2021/05"/>
         <updated>2022-11-08T15:52:31.786Z</updated>
-        <content type="html"><![CDATA[<a href="/newsletter/2021/05" id="gwern-newsletter-2021-05" class="link-annotated link-page has-annotation spawns-popin" title="'May 2021 News', Branwen 2020" data-link-icon-type="text" data-link-icon="𝔊">May 2021 Newsletter</a>]]></content>
+        <content type="html"><![CDATA[<a href="/newsletter/2021/05" id="gwern-newsletter-2021-05" class="link-annotated link-page has-annotation spawns-popin" title="'May 2021 News', Branwen 2020">May 2021 Newsletter</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CYOA AI Dungeon Proposal]]></title>
         <id>https://www.gwern.net/CYOA</id>
         <link href="https://www.gwern.net/CYOA"/>
         <updated>2022-11-08T15:52:31.786Z</updated>
-        <content type="html"><![CDATA[<a href="/CYOA" id="cyoa-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Choose-Your-Own-Adventure AI Dungeon Games', Branwen 2021" data-link-icon-type="text" data-link-icon="𝔊">CYOA AI Dungeon Proposal</a>]]></content>
+        <content type="html"><![CDATA[<a href="/CYOA" id="cyoa-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Choose-Your-Own-Adventure AI Dungeon Games', Branwen 2021">CYOA AI Dungeon Proposal</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Scaling Hypothesis]]></title>
         <id>https://www.gwern.net/Scaling-hypothesis</id>
         <link href="https://www.gwern.net/Scaling-hypothesis"/>
         <updated>2022-11-08T15:52:31.789Z</updated>
-        <content type="html"><![CDATA[<a href="/Scaling-hypothesis" id="gpt-3-scaling-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Scaling Hypothesis', Branwen 2020" data-link-icon-type="text" data-link-icon="𝔊">The Scaling Hypothesis</a>]]></content>
+        <content type="html"><![CDATA[<a href="/Scaling-hypothesis" id="gpt-3-scaling-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Scaling Hypothesis', Branwen 2020">The Scaling Hypothesis</a>]]></content>
     </entry>
 </feed>
