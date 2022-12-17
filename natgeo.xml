@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.nationalgeographic.com/magazine</id>
-    <title>National Geographic</title>
-    <updated>2022-12-14T05:33:37.417Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.nationalgeographic.com/favicon.ico</icon>
-</feed>
