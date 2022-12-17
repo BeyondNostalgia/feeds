@@ -4,10 +4,3 @@ url = "https://www.gwern.net/"
 entrySelector = "#newest li"
 titleSelector = "a"
 linkSelector = "a"
-
-[natgeo]
-title = "National Geographic"
-url = "https://www.nationalgeographic.com/magazine"
-entrySelector = "article.PromoTile__Type--image.PromoTile.PromoTile__Theme--light.PromoTile__Layout--vertical.PromoTile__Type--image"
-titleSelector = "div.Truncate.Truncate--collapsed"
-linkSelector = "a.AnchorLink.PromoTile__Link"
