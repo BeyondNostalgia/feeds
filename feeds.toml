@@ -8,7 +8,7 @@ linkSelector = "a"
 [jtunney]
 title = "Justine Tunney"
 url = "http://justine.lol"
-entrySelector = "td + td ul li"
+entrySelector = "td + td ul:first-of-type li"
 titleSelector = "a"
 linkSelector = "a"
-filters = ["<small>"]
+# filters = ["<small>"]
