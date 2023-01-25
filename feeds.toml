@@ -4,3 +4,11 @@ url = "https://www.gwern.net/"
 entrySelector = "#newest li"
 titleSelector = "a"
 linkSelector = "a"
+
+[jtunney]
+title = "Justine Tunney"
+url = "http://justine.lol"
+entrySelector = "td + td ul li"
+titleSelector = "a"
+linkSelector = "a"
+filters = ["<small>"]
