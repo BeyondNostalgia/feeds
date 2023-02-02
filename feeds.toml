@@ -11,4 +11,4 @@ url = "http://justine.lol"
 entrySelector = "td + td ul:first-of-type li"
 titleSelector = "a"
 linkSelector = "a"
-filters = ["<small>"]
+# filters = ["<small>"]
