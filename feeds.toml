@@ -1,9 +1,9 @@
-# [gwern]
-# title = "Gwern Branwen"
-# url = "https://gwern.net/"
-# entrySelector = "#newest li"
-# titleSelector = "a"
-# linkSelector = "a"
+[gwern]
+title = "Gwern Branwen"
+url = "https://gwern.net/"
+entrySelector = "#newest li"
+titleSelector = "a"
+linkSelector = "a"
 
 [jtunney]
 title = "Justine Tunney"
