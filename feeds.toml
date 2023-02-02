@@ -12,3 +12,10 @@ entrySelector = "td + td ul:first-of-type li"
 titleSelector = "a"
 linkSelector = "a"
 # filters = ["<small>"]
+
+[aerotoolbox]
+title = "AeroToolbox"
+url = "https://aerotoolbox.com/category/intro-aircraft-design/?filter-label=seriesorder"
+entrySelector = "div.container div.h3"
+titleSelector = "a"
+linkSelector = "a"
