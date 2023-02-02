@@ -2,8 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-02T10:07:28.434Z</updated>
+    <updated>2023-02-02T10:10:13.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Solving Gambling Problem #14 Fast (Gwern Branwen)]]></title>
+        <id>https://gwern.net/problem-14</id>
+        <link href="https://gwern.net/problem-14"/>
+        <updated>2023-02-02T10:10:09.327Z</updated>
+        <content type="html"><![CDATA[<a href="/problem-14" id="problem-14-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Problem 14 Dynamic Programming Solutions’, Branwen et al 2022">Solving Gambling Problem #14 Fast</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do Hipsters Steal Stuff? (Gwern Branwen)]]></title>
+        <id>https://gwern.net/larping</id>
+        <link href="https://gwern.net/larping"/>
+        <updated>2023-02-02T10:10:09.331Z</updated>
+        <content type="html"><![CDATA[<a href="/larping" id="larp-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Why Do Hipsters Steal Stuff?', Branwen 2022">Why Do Hipsters Steal Stuff?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Reading: Fake Journal Club (Gwern Branwen)]]></title>
+        <id>https://gwern.net/fake-journal-club</id>
+        <link href="https://gwern.net/fake-journal-club"/>
+        <updated>2023-02-02T10:10:09.332Z</updated>
+        <content type="html"><![CDATA[<a href="/fake-journal-club" id="gwern-fake-journal-club" class="link-annotated link-page has-annotation spawns-popin" title="‘Fake Journal Club: Teaching Critical Reading’, Branwen 2022">Critical Reading: Fake Journal Club</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looks Like You’re Taking Over The World (Gwern Branwen)]]></title>
+        <id>https://gwern.net/fiction/clippy</id>
+        <link href="https://gwern.net/fiction/clippy"/>
+        <updated>2023-02-02T10:10:09.346Z</updated>
+        <content type="html"><![CDATA[<a href="/fiction/clippy" id="clippy-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘It Looks Like You’re Trying To Take Over The World’, Branwen 2022">Looks Like You’re Taking Over The World</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 2021 Newsletter (Gwern Branwen)]]></title>
+        <id>https://gwern.net/newsletter/2021/06</id>
+        <link href="https://gwern.net/newsletter/2021/06"/>
+        <updated>2023-02-02T10:10:09.347Z</updated>
+        <content type="html"><![CDATA[<a href="/newsletter/2021/06" id="gwern-newsletter-2021-06" class="link-annotated link-page has-annotation spawns-popin" title="'June 2021 News', Branwen 2020">June 2021 Newsletter</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Screwfly Solution’ Solution (Gwern Branwen)]]></title>
+        <id>https://gwern.net/screwfly</id>
+        <link href="https://gwern.net/screwfly"/>
+        <updated>2023-02-02T10:10:09.347Z</updated>
+        <content type="html"><![CDATA[<a href="/screwfly" id="screwfly-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The ‘Screwfly Solution’ Solution: Bi-Sexuality', Branwen 2021">‘Screwfly Solution’ Solution</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Math Of Hunting Lions (Gwern Branwen)]]></title>
+        <id>https://gwern.net/notes/lion</id>
+        <link href="https://gwern.net/notes/lion"/>
+        <updated>2023-02-02T10:10:09.350Z</updated>
+        <content type="html"><![CDATA[<a href="/notes/lion" id="lions-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Math of Hunting Lions', Branwen 2021">The Math Of Hunting Lions</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CO2 Coin: Carbon Capture (Gwern Branwen)]]></title>
+        <id>https://gwern.net/co2-coin</id>
+        <link href="https://gwern.net/co2-coin"/>
+        <updated>2023-02-02T10:10:09.352Z</updated>
+        <content type="html"><![CDATA[<a href="/co2-coin" id="co2-coin-newest" class="link-annotated link-page has-annotation spawns-popin" title="'CO₂ Coin: Decentralized Carbon Capture Blockchains', Branwen 2021">CO<sub>2</sub> Coin: Carbon Capture</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Startup Ideas (Gwern Branwen)]]></title>
+        <id>https://gwern.net/startup-idea</id>
+        <link href="https://gwern.net/startup-idea"/>
+        <updated>2023-02-02T10:10:09.356Z</updated>
+        <content type="html"><![CDATA[<a href="/startup-idea" id="startup-ideas-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Startup Ideas', Branwen 2017">Some Startup Ideas</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 2021 Newsletter (Gwern Branwen)]]></title>
+        <id>https://gwern.net/newsletter/2021/05</id>
+        <link href="https://gwern.net/newsletter/2021/05"/>
+        <updated>2023-02-02T10:10:09.357Z</updated>
+        <content type="html"><![CDATA[<a href="/newsletter/2021/05" id="gwern-newsletter-2021-05" class="link-annotated link-page has-annotation spawns-popin" title="'May 2021 News', Branwen 2020">May 2021 Newsletter</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CYOA AI Dungeon Proposal (Gwern Branwen)]]></title>
+        <id>https://gwern.net/cyoa</id>
+        <link href="https://gwern.net/cyoa"/>
+        <updated>2023-02-02T10:10:09.359Z</updated>
+        <content type="html"><![CDATA[<a href="/cyoa" id="cyoa-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Choose-Your-Own-Adventure AI Dungeon Games', Branwen 2021">CYOA AI Dungeon Proposal</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Scaling Hypothesis (Gwern Branwen)]]></title>
+        <id>https://gwern.net/scaling-hypothesis</id>
+        <link href="https://gwern.net/scaling-hypothesis"/>
+        <updated>2023-02-02T10:10:09.364Z</updated>
+        <content type="html"><![CDATA[<a href="/scaling-hypothesis" id="gpt-3-scaling-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Scaling Hypothesis', Branwen 2020">The Scaling Hypothesis</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[actually portable awk (Justine Tunney)]]></title>
         <id>http://justine.lol/awk/</id>
