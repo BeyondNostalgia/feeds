@@ -1,6 +1,6 @@
 [gwern]
 title = "Gwern Branwen"
-url = "https://www.gwern.net/"
+url = "https://gwern.net/"
 entrySelector = "#newest li"
 titleSelector = "a"
 linkSelector = "a"
