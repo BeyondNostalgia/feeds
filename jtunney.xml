@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://justine.lol</id>
     <title>Justine Tunney</title>
-    <updated>2023-02-02T11:03:49.828Z</updated>
+    <updated>2023-02-02T17:33:44.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://justine.lol/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[actually portable awk]]></title>
         <id>http://justine.lol/awk/</id>
         <link href="http://justine.lol/awk/"/>
-        <updated>2022-08-22T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.690Z</updated>
         <content type="html"><![CDATA[<a href="awk/">actually portable awk</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[landlocked make]]></title>
         <id>http://justine.lol/make/</id>
         <link href="http://justine.lol/make/"/>
-        <updated>2022-08-07T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.691Z</updated>
         <content type="html"><![CDATA[<a href="make/">landlocked make</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pledge() for linux]]></title>
         <id>http://justine.lol/pledge/</id>
         <link href="http://justine.lol/pledge/"/>
-        <updated>2022-07-13T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.694Z</updated>
         <content type="html"><![CDATA[<a href="pledge/">pledge() for linux</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[redbean 2.0]]></title>
         <id>http://justine.lol/redbean2/</id>
         <link href="http://justine.lol/redbean2/"/>
-        <updated>2022-06-16T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.696Z</updated>
         <content type="html"><![CDATA[<a href="redbean2/">redbean 2.0</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ape loader]]></title>
         <id>http://justine.lol/apeloader/</id>
         <link href="http://justine.lol/apeloader/"/>
-        <updated>2022-06-11T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.699Z</updated>
         <content type="html"><![CDATA[<a href="apeloader/">ape loader</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[size optimization tricks]]></title>
         <id>http://justine.lol/sizetricks/</id>
         <link href="http://justine.lol/sizetricks/"/>
-        <updated>2022-06-10T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.699Z</updated>
         <content type="html"><![CDATA[<a href="sizetricks/">size optimization tricks</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[logging c functions]]></title>
         <id>http://justine.lol/ftrace/</id>
         <link href="http://justine.lol/ftrace/"/>
-        <updated>2022-05-19T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.700Z</updated>
         <content type="html"><![CDATA[<a href="ftrace/">logging c functions</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[lambda calculus in 383 bytes]]></title>
         <id>http://justine.lol/lambda/</id>
         <link href="http://justine.lol/lambda/"/>
-        <updated>2022-02-27T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.702Z</updated>
         <content type="html"><![CDATA[<a href="lambda/">lambda calculus in 383 bytes</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[lisp with gc in 436 bytes]]></title>
         <id>http://justine.lol/sectorlisp2/</id>
         <link href="http://justine.lol/sectorlisp2/"/>
-        <updated>2021-12-18T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.705Z</updated>
         <content type="html"><![CDATA[<a href="sectorlisp2/">lisp with gc in 436 bytes</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[monospace acid test]]></title>
         <id>http://justine.lol/dox/unicode.html</id>
         <link href="http://justine.lol/dox/unicode.html"/>
-        <updated>2021-11-20T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.707Z</updated>
         <content type="html"><![CDATA[<a href="dox/unicode.html">monospace acid test</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[sectorlisp now fits in one sector]]></title>
         <id>http://justine.lol/sectorlisp/</id>
         <link href="http://justine.lol/sectorlisp/"/>
-        <updated>2021-10-30T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.708Z</updated>
         <content type="html"><![CDATA[<a href="sectorlisp/">sectorlisp now fits in one sector</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[the byte order fiasco]]></title>
         <id>http://justine.lol/endian.html</id>
         <link href="http://justine.lol/endian.html"/>
-        <updated>2021-05-01T00:00:00.000Z</updated>
+        <updated>2023-01-25T11:10:46.711Z</updated>
         <content type="html"><![CDATA[<a href="endian.html">the byte order fiasco</a>]]></content>
     </entry>
 </feed>
