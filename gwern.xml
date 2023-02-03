@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-02-02T17:33:44.129Z</updated>
+    <updated>2023-02-03T05:34:26.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -49,10 +49,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[The Math Of Hunting Lions]]></title>
-        <id>https://gwern.net/notes/lion</id>
-        <link href="https://gwern.net/notes/lion"/>
-        <updated>2023-02-02T10:10:09.350Z</updated>
-        <content type="html"><![CDATA[<a href="/notes/lion" id="lions-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Math of Hunting Lions', Branwen 2021">The Math Of Hunting Lions</a>]]></content>
+        <id>https://gwern.net/note/lion</id>
+        <link href="https://gwern.net/note/lion"/>
+        <updated>2023-02-03T05:34:18.566Z</updated>
+        <content type="html"><![CDATA[<a href="/note/lion" id="lions-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Math of Hunting Lions', Branwen 2021">The Math Of Hunting Lions</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CO2 Coin: Carbon Capture]]></title>
