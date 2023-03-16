@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-16T05:34:04.592Z</updated>
+    <updated>2023-03-16T17:34:27.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[⁠Project Ideas (Gwern Branwen)]]></title>
@@ -94,6 +94,13 @@
         <link href="https://gwern.net/scaling-hypothesis"/>
         <updated>2023-02-02T10:10:09.364Z</updated>
         <content type="html"><![CDATA[<a href="/scaling-hypothesis" id="gpt-3-scaling-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Scaling Hypothesis', Branwen 2020">The Scaling Hypothesis</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[portable rusage command (Justine Tunney)]]></title>
+        <id>http://justine.lol/rusage/</id>
+        <link href="http://justine.lol/rusage/"/>
+        <updated>2023-03-16T17:34:20.120Z</updated>
+        <content type="html"><![CDATA[<a href="rusage/">portable rusage command</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[actually portable awk (Justine Tunney)]]></title>
