@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-03-28T05:33:28.386Z</updated>
+    <updated>2023-03-28T17:33:58.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
-        <title type="html"><![CDATA[⁠Project Ideas]]></title>
+        <title type="html"><![CDATA[⁠Research Ideas]]></title>
         <id>https://gwern.net/idea</id>
         <link href="https://gwern.net/idea"/>
         <updated>2023-03-02T05:34:08.822Z</updated>
-        <content type="html"><![CDATA[<a href="/idea" id="project-ideas-newest" class="link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠Project Ideas</a>]]></content>
+        <content type="html"><![CDATA[<a href="/idea" id="research-ideas-newest" class="link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠Research Ideas</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Solving Gambling Problem #14 Fast]]></title>
