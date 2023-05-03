@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-05-03T05:33:27.826Z</updated>
+    <updated>2023-05-03T17:33:12.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
-        <title type="html"><![CDATA[⁠Finding Feynmnan’s Maze Story]]></title>
+        <title type="html"><![CDATA[Finding Feynmnan’s Maze Story]]></title>
         <id>https://gwern.net/maze</id>
         <link href="https://gwern.net/maze"/>
         <updated>2023-05-03T05:33:18.155Z</updated>
-        <content type="html"><![CDATA[<a href="/maze" id="feynman-newest" class="link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠Finding Feynmnan’s Maze Story</a>]]></content>
+        <content type="html"><![CDATA[<a href="/maze" id="feynman-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Feynman’s Maze-Running Story’, Branwen 2014">Finding Feynmnan’s Maze Story</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Research Ideas]]></title>
