@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-05-02T17:33:19.310Z</updated>
+    <updated>2023-05-03T05:33:27.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[⁠Finding Feynmnan’s Maze Story]]></title>
+        <id>https://gwern.net/maze</id>
+        <link href="https://gwern.net/maze"/>
+        <updated>2023-05-03T05:33:18.155Z</updated>
+        <content type="html"><![CDATA[<a href="/maze" id="feynman-newest" class="link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠Finding Feynmnan’s Maze Story</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Research Ideas]]></title>
         <id>https://gwern.net/idea</id>
@@ -67,13 +74,6 @@
         <link href="https://gwern.net/co2-coin"/>
         <updated>2023-02-02T10:10:09.352Z</updated>
         <content type="html"><![CDATA[<a href="/co2-coin" id="co2-coin-newest" class="link-annotated link-page has-annotation spawns-popin" title="'CO₂ Coin: Decentralized Carbon Capture Blockchains', Branwen 2021">CO<sub>2</sub> Coin: Carbon Capture</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Startup Ideas]]></title>
-        <id>https://gwern.net/startup-idea</id>
-        <link href="https://gwern.net/startup-idea"/>
-        <updated>2023-02-02T10:10:09.356Z</updated>
-        <content type="html"><![CDATA[<a href="/startup-idea" id="startup-ideas-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Startup Ideas', Branwen 2017">Some Startup Ideas</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[May 2021 Newsletter]]></title>
