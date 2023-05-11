@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-05-10T05:33:08.020Z</updated>
+    <updated>2023-05-11T05:33:22.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://gwern.net/fake-journal-club</id>
         <link href="https://gwern.net/fake-journal-club"/>
         <updated>2023-02-02T10:10:09.332Z</updated>
-        <content type="html"><![CDATA[<a href="/fake-journal-club" id="gwern-2022" class="link-annotated link-page has-annotation spawns-popin" title="‘Fake Journal Club: Teaching Critical Reading’, Branwen 2022">Critical Reading: Fake Journal Club</a>]]></content>
+        <content type="html"><![CDATA[<a href="/fake-journal-club" id="gwern-fake-journal-club" class="link-annotated link-page has-annotation spawns-popin" title="‘Fake Journal Club: Teaching Critical Reading’, Branwen 2022">Critical Reading: Fake Journal Club</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Looks Like You’re Taking Over The World]]></title>
