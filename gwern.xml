@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-05-14T17:33:01.753Z</updated>
+    <updated>2023-05-15T05:33:22.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[⁠“You And Your Research”]]></title>
+        <id>https://gwern.net/doc/science/1986-hamming</id>
+        <link href="https://gwern.net/doc/science/1986-hamming"/>
+        <updated>2023-05-15T05:33:13.205Z</updated>
+        <content type="html"><![CDATA[<a href="/doc/science/1986-hamming" id="hamming-newest" class="link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠“You And Your Research”</a>⁠, Hamming]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finding Feynman’s Maze Story]]></title>
         <id>https://gwern.net/maze</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/cyoa"/>
         <updated>2023-02-02T10:10:09.359Z</updated>
         <content type="html"><![CDATA[<a href="/cyoa" id="cyoa-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Choose-Your-Own-Adventure AI Dungeon Games', Branwen 2021">CYOA AI Dungeon Proposal</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Scaling Hypothesis]]></title>
-        <id>https://gwern.net/scaling-hypothesis</id>
-        <link href="https://gwern.net/scaling-hypothesis"/>
-        <updated>2023-02-02T10:10:09.364Z</updated>
-        <content type="html"><![CDATA[<a href="/scaling-hypothesis" id="gpt-3-scaling-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Scaling Hypothesis', Branwen 2020">The Scaling Hypothesis</a>]]></content>
     </entry>
 </feed>
