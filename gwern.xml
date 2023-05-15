@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-05-15T05:33:22.996Z</updated>
+    <updated>2023-05-15T17:33:15.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/doc/science/1986-hamming</id>
         <link href="https://gwern.net/doc/science/1986-hamming"/>
         <updated>2023-05-15T05:33:13.205Z</updated>
-        <content type="html"><![CDATA[<a href="/doc/science/1986-hamming" id="hamming-newest" class="link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠“You And Your Research”</a>⁠, Hamming]]></content>
+        <content type="html"><![CDATA[<a href="/doc/science/1986-hamming" id="hamming-newest" class="link-annotated-partial link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠“You And Your Research”</a>⁠, Hamming]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Finding Feynman’s Maze Story]]></title>
