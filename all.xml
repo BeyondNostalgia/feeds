@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-01T05:33:32.410Z</updated>
+    <updated>2023-06-01T17:33:04.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[⁠“You And Your Research” (Gwern Branwen)]]></title>
+        <title type="html"><![CDATA[“You And Your Research” (Gwern Branwen)]]></title>
         <id>https://gwern.net/doc/science/1986-hamming</id>
         <link href="https://gwern.net/doc/science/1986-hamming"/>
         <updated>2023-05-15T05:33:13.205Z</updated>
-        <content type="html"><![CDATA[<a href="/doc/science/1986-hamming" id="hamming-newest" class="link-annotated-partial link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠“You And Your Research”</a>⁠, Hamming]]></content>
+        <content type="html"><![CDATA[<a href="/doc/science/1986-hamming" id="hamming-newest" class="link-annotated link-page has-annotation spawns-popin" title="'You And Your Research', Hamming 2023">“You And Your Research”</a>⁠, Hamming]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Finding Feynman’s Maze Story (Gwern Branwen)]]></title>
