@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-12T05:33:26.068Z</updated>
+    <updated>2023-06-12T17:34:03.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Impossibility of Knowledge of Retrocognitive Knowledge (Gwern Branwen)]]></title>
@@ -102,6 +102,13 @@
         <content type="html"><![CDATA[<p class="first-graf in-list block" style="--bsm: 0;">
               <a href="/note/lion" id="lions-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Math of Hunting Lions', gwern 2021">The Math Of Hunting Lions</a>
             </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[deepmind sorting algorithm (Justine Tunney)]]></title>
+        <id>http://justine.lol/sorting/</id>
+        <link href="http://justine.lol/sorting/"/>
+        <updated>2023-06-12T17:33:57.386Z</updated>
+        <content type="html"><![CDATA[<a href="sorting/">deepmind sorting algorithm</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[edge ai just got faster (Justine Tunney)]]></title>
