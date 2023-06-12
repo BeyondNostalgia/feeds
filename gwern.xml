@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-06-11T17:33:04.390Z</updated>
+    <updated>2023-06-12T05:33:26.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
-        <title type="html"><![CDATA[⁠Impossibility of Knowledge of Retrocognition Knowledge]]></title>
+        <title type="html"><![CDATA[Impossibility of Knowledge of Retrocognitive Knowledge]]></title>
         <id>https://gwern.net/retrocognition</id>
         <link href="https://gwern.net/retrocognition"/>
         <updated>2023-06-11T17:32:56.339Z</updated>
         <content type="html"><![CDATA[<p class="first-graf in-list block" style="--bsm: 0;">
-              <a href="/retrocognition" id="retrocognition-newest" class="link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠Impossibility of Knowledge of Retrocognition Knowledge</a>
+              <a href="/retrocognition" id="retrocognitive-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Impossibility of Knowledge of Retrocognitive Knowledge', gwern 2023">Impossibility of Knowledge of Retrocognitive Knowledge</a>
             </p>]]></content>
     </entry>
     <entry>
