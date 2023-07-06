@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-07-06T05:36:39.160Z</updated>
+    <updated>2023-07-06T17:36:14.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://gwern.net/larping</id>
         <link href="https://gwern.net/larping"/>
         <updated>2023-02-02T10:10:09.331Z</updated>
-        <content type="html"><![CDATA[<p class="first-graf in-list block" style="--bsm: 0;"><a href="/larping" id="larp-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Why Do Hipsters Steal Stuff?', gwern 2022">Why Do Hipsters Steal Stuff?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="first-graf in-list block" style="--bsm: 0;"><a href="/larping" id="larp-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Why Do Hipsters Steal Stuff?', Gwern 2022">Why Do Hipsters Steal Stuff?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Critical Reading: Fake Journal Club]]></title>
@@ -80,6 +80,6 @@
         <id>https://gwern.net/note/lion</id>
         <link href="https://gwern.net/note/lion"/>
         <updated>2023-02-03T05:34:18.566Z</updated>
-        <content type="html"><![CDATA[<p class="first-graf in-list block" style="--bsm: 0;"><a href="/note/lion" id="lions-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Math of Hunting Lions', gwern 2021">The Math Of Hunting Lions</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="first-graf in-list block" style="--bsm: 0;"><a href="/note/lion" id="lions-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Math of Hunting Lions', Gwern 2021">The Math Of Hunting Lions</a></p>]]></content>
     </entry>
 </feed>
