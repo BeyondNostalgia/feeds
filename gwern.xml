@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-08-27T05:33:34.923Z</updated>
+    <updated>2023-08-27T17:32:59.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[⁠Indent / ​justification CSS A / ​B test]]></title>
+        <id>https://gwern.net/ab-test-indent</id>
+        <link href="https://gwern.net/ab-test-indent"/>
+        <updated>2023-08-27T17:32:51.410Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/ab-test-indent" id="gwern-ab-test-indent" class="link-annotated-partial link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠Indent / ​justification CSS A / ​B test</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Absolute Unit NNs: MLPs for Everything]]></title>
         <id>https://gwern.net/aunn</id>
@@ -82,12 +89,5 @@
         <link href="https://gwern.net/screwfly"/>
         <updated>2023-02-02T10:10:09.347Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/screwfly" id="screwfly-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The ‘Screwfly Solution’ Solution: Bi-Sexuality', Branwen 2021">‘Screwfly Solution’ Solution</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Math Of Hunting Lions]]></title>
-        <id>https://gwern.net/note/lion</id>
-        <link href="https://gwern.net/note/lion"/>
-        <updated>2023-02-03T05:34:18.566Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/note/lion" id="lions-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The Math of Hunting Lions', Gwern 2021">The Math Of Hunting Lions</a></p>]]></content>
     </entry>
 </feed>
