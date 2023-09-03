@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-09-03T05:33:07.325Z</updated>
+    <updated>2023-09-03T17:33:23.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://gwern.net/suzanne-delage</id>
         <link href="https://gwern.net/suzanne-delage"/>
         <updated>2023-08-28T17:33:25.051Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/suzanne-delage" id="suzanne-2" class="link-annotated link-page has-annotation spawns-popin" title="'Interpreting ‘Suzanne Delage’', Gwern 2009">“Suzanne Delage” Solved</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/suzanne-delage" id="suzanne-2" class="link-annotated link-page has-annotation spawns-popin" title="‘Interpreting ‘Suzanne Delage’ as _Dracula_’, Gwern 2009">“Suzanne Delage” Solved</a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[⁠Indent / ​Justification CSS A / ​B test]]></title>
+        <title type="html"><![CDATA[Indent / ​Justification CSS A / ​B test]]></title>
         <id>https://gwern.net/ab-test-indent</id>
         <link href="https://gwern.net/ab-test-indent"/>
         <updated>2023-08-27T17:32:51.410Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/ab-test-indent" id="gwern-ab-test-indent" class="link-annotated-partial link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠Indent / ​Justification CSS A / ​B test</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/ab-test-indent" id="gwern-ab-test-indent" class="link-annotated link-page has-annotation spawns-popin" title="‘A/B Testing Indentation &amp; Justification’, Gwern 2022">Indent / ​Justification CSS A / ​B test</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Absolute Unit NNs: MLPs for Everything]]></title>
