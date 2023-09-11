@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-10T17:33:02.787Z</updated>
+    <updated>2023-09-11T05:33:45.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[“Suzanne Delage” Solved (Gwern Branwen)]]></title>
@@ -12,11 +12,11 @@
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/suzanne-delage" id="suzanne-2" class="link-annotated link-page has-annotation spawns-popin" title="‘Interpreting ‘Suzanne Delage’ as _Dracula_’, Gwern 2009">“Suzanne Delage” Solved</a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indent / ​Justification CSS A / B test (Gwern Branwen)]]></title>
+        <title type="html"><![CDATA[Indent / Justification CSS A / B test (Gwern Branwen)]]></title>
         <id>https://gwern.net/ab-test-indent</id>
         <link href="https://gwern.net/ab-test-indent"/>
         <updated>2023-08-27T17:32:51.410Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/ab-test-indent" id="gwern-ab-test-indent" class="link-annotated link-page has-annotation spawns-popin" title="‘A/B Testing Indentation &amp; Justification’, Gwern 2022">Indent /&nbsp;​Justification CSS A /&nbsp;B test</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/ab-test-indent" id="gwern-ab-test-indent" class="link-annotated link-page has-annotation spawns-popin" title="‘A/B Testing Indentation &amp; Justification’, Gwern 2022">Indent / Justification CSS A / B test</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Absolute Unit NNs: MLPs for Everything (Gwern Branwen)]]></title>
