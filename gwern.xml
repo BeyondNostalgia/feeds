@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-09-19T05:33:21.443Z</updated>
+    <updated>2023-09-19T17:33:20.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/suzanne-delage</id>
         <link href="https://gwern.net/suzanne-delage"/>
         <updated>2023-08-28T17:33:25.051Z</updated>
-        <content type="html"><![CDATA[<p class="first-block in-list first-graf block" style="--bsm: 0;"><a href="/suzanne-delage" id="suzanne-2" class="link-annotated link-page has-annotation spawns-popin" title="‘Interpreting ‘Suzanne Delage’ as _Dracula_’, Gwern 2009">“Suzanne Delage” Solved</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/suzanne-delage" id="suzanne-2" class="link-annotated link-page has-annotation spawns-popin" title="‘Interpreting ‘Suzanne Delage’ as _Dracula_’, Gwern 2009">“Suzanne Delage” Solved</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Indent/Justification CSS A/B test]]></title>
