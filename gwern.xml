@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-10-02T05:33:17.857Z</updated>
+    <updated>2023-10-02T17:33:10.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[⁠“‘CQK’ Is The First Unused TLA”]]></title>
+        <id>https://gwern.net/tla</id>
+        <link href="https://gwern.net/tla"/>
+        <updated>2023-10-02T17:33:01.744Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/tla" id="tla-newest" class="link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠“‘CQK’ Is The First Unused TLA”</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Suzanne Delage” Solved]]></title>
         <id>https://gwern.net/suzanne-delage</id>
@@ -82,12 +89,5 @@
         <link href="https://gwern.net/fiction/clippy"/>
         <updated>2023-02-02T10:10:09.346Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/clippy" id="clippy-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘It Looks Like You’re Trying To Take Over The World’, Branwen 2022">Looks Like You’re Taking Over The World</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Screwfly Solution’ Solution]]></title>
-        <id>https://gwern.net/screwfly</id>
-        <link href="https://gwern.net/screwfly"/>
-        <updated>2023-02-02T10:10:09.347Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/screwfly" id="screwfly-newest" class="link-annotated link-page has-annotation spawns-popin" title="'The ‘Screwfly Solution’ Solution: Bi-Sexuality', Branwen 2021">‘Screwfly Solution’ Solution</a></p>]]></content>
     </entry>
 </feed>
