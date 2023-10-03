@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-10-02T17:33:10.442Z</updated>
+    <updated>2023-10-03T05:33:23.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
-        <title type="html"><![CDATA[⁠“‘CQK’ Is The First Unused TLA”]]></title>
+        <title type="html"><![CDATA[“CQK Is The First Unused TLA”]]></title>
         <id>https://gwern.net/tla</id>
         <link href="https://gwern.net/tla"/>
         <updated>2023-10-02T17:33:01.744Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/tla" id="tla-newest" class="link-page has-content spawns-popin"><span class="indicator-hook"></span>⁠“‘CQK’ Is The First Unused TLA”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/tla" id="tla-newest" class="link-annotated link-page has-annotation spawns-popin" title="'CQK Is The First Unused TLA', Gwern 2023">“CQK Is The First Unused TLA”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Suzanne Delage” Solved]]></title>
