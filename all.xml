@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-19T05:33:32.183Z</updated>
+    <updated>2023-10-19T17:33:01.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[“Utext: Rich Unicode Documents” (Gwern Branwen)]]></title>
+        <id>https://gwern.net/utext</id>
+        <link href="https://gwern.net/utext"/>
+        <updated>2023-10-19T17:32:50.545Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/utext" id="utext-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Utext: Rich Unicode Documents', Gwern 2023">“Utext: Rich Unicode Documents”</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“CQK Is The First Unused TLA” (Gwern Branwen)]]></title>
         <id>https://gwern.net/tla</id>
@@ -81,13 +88,6 @@
         <link href="https://gwern.net/fake-journal-club"/>
         <updated>2023-02-02T10:10:09.332Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fake-journal-club" id="gwern-fake-journal-club" class="link-annotated link-page has-annotation spawns-popin" title="‘Fake Journal Club: Teaching Critical Reading’, Branwen 2022">Critical Reading: Fake Journal Club</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looks Like You’re Taking Over The World (Gwern Branwen)]]></title>
-        <id>https://gwern.net/fiction/clippy</id>
-        <link href="https://gwern.net/fiction/clippy"/>
-        <updated>2023-02-02T10:10:09.346Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/clippy" id="clippy-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘It Looks Like You’re Trying To Take Over The World’, Branwen 2022">Looks Like You’re Taking Over The World</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[deepmind sorting algorithm (Justine Tunney)]]></title>
