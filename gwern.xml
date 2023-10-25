@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2023-10-24T17:33:42.599Z</updated>
+    <updated>2023-10-25T05:33:22.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,83 +10,84 @@
         <id>https://gwern.net/utext</id>
         <link href="https://gwern.net/utext"/>
         <updated>2023-10-19T17:32:50.545Z</updated>
-        <content type="html"><![CDATA[<a href="/utext" id="utext-newest" class="link-annotated link-page" title="'Utext: Rich Unicode Documents', Gwern 2023">“Utext: Rich Unicode Documents”</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/utext" id="utext-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Utext: Rich Unicode Documents', Gwern 2023">“Utext: Rich Unicode Documents”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“CQK Is The First Unused TLA”]]></title>
         <id>https://gwern.net/tla</id>
         <link href="https://gwern.net/tla"/>
         <updated>2023-10-02T17:33:01.744Z</updated>
-        <content type="html"><![CDATA[<a href="/tla" id="tla-newest" class="link-annotated link-page" title="'CQK Is The First Unused TLA', Gwern 2023">“CQK Is The First Unused TLA”</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/tla" id="tla-newest" class="link-annotated link-page has-annotation spawns-popin" title="'CQK Is The First Unused TLA', Gwern 2023">“CQK Is The First Unused TLA”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Suzanne Delage” Solved]]></title>
         <id>https://gwern.net/suzanne-delage</id>
         <link href="https://gwern.net/suzanne-delage"/>
         <updated>2023-08-28T17:33:25.051Z</updated>
-        <content type="html"><![CDATA[<a href="/suzanne-delage" id="suzanne-2" class="link-annotated link-page" title="‘Interpreting ‘Suzanne Delage’ as _Dracula_’, Gwern 2009">“Suzanne Delage” Solved</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/suzanne-delage" id="suzanne-2" class="link-annotated link-page has-annotation spawns-popin" title="‘Interpreting ‘Suzanne Delage’ as _Dracula_’, Gwern 2009">“Suzanne Delage” Solved</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Indent/Justification CSS A/B test]]></title>
         <id>https://gwern.net/ab-test-indent</id>
         <link href="https://gwern.net/ab-test-indent"/>
         <updated>2023-08-27T17:32:51.410Z</updated>
-        <content type="html"><![CDATA[<a href="/ab-test-indent" id="gwern-ab-test-indent" class="link-annotated link-page" title="‘A/B Testing Indentation &amp; Justification’, Gwern 2022">Indent/Justification CSS A/B test</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/ab-test-indent" id="gwern-ab-test-indent" class="link-annotated link-page has-annotation spawns-popin" title="‘A/B Testing Indentation &amp; Justification’, Gwern 2022">Indent/<wbr>Justification CSS A/<wbr>B test</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Absolute Unit NNs: MLPs for Everything]]></title>
         <id>https://gwern.net/aunn</id>
         <link href="https://gwern.net/aunn"/>
         <updated>2023-07-23T17:33:01.954Z</updated>
-        <content type="html"><![CDATA[<a href="/aunn" id="aunn-newest" class="link-annotated link-page" title="‘Absolute Unit NNs: Regression-Based MLPs for Everything’, Gwern 2023">Absolute Unit NNs: MLPs for Everything</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/aunn" id="aunn-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Absolute Unit NNs: Regression-Based MLPs for Everything’, Gwern 2023">Absolute Unit NNs: MLPs for Everything</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Impossibility of Knowledge of Retrocognitive Knowledge]]></title>
         <id>https://gwern.net/retrocognition</id>
         <link href="https://gwern.net/retrocognition"/>
         <updated>2023-06-11T17:32:56.339Z</updated>
-        <content type="html"><![CDATA[<a href="/retrocognition" id="retrocognitive-newest" class="link-annotated link-page" title="‘The Impossibility of Knowledge of Retrocognitive Knowledge’, gwern 2023">Impossibility of Knowledge of Retrocognitive Knowledge</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/retrocognition" id="retrocognitive-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘The Impossibility of Knowledge of Retrocognitive Knowledge’, gwern 2023">Impossibility of Knowledge of Retrocognitive Knowledge</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“You And Your Research”]]></title>
         <id>https://gwern.net/doc/science/1986-hamming</id>
         <link href="https://gwern.net/doc/science/1986-hamming"/>
         <updated>2023-05-15T05:33:13.205Z</updated>
-        <content type="html"><![CDATA[<a href="/doc/science/1986-hamming" id="hamming-newest" class="link-annotated link-page" title="'You And Your Research', Hamming 2023">“You And Your Research”</a>, Hamming]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/doc/science/1986-hamming" id="hamming-newest" class="link-annotated link-page has-annotation spawns-popin" title="'You And Your Research', Hamming 2023">“You And Your Research”</a>, Hamming
+            </p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Finding Feynman’s Maze Story]]></title>
         <id>https://gwern.net/maze</id>
         <link href="https://gwern.net/maze"/>
         <updated>2023-05-03T05:33:18.155Z</updated>
-        <content type="html"><![CDATA[<a href="/maze" id="feynman-newest" class="link-annotated link-page" title="‘Feynman’s Maze-Running Story’, Branwen 2014">Finding Feynman’s Maze Story</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/maze" id="feynman-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Feynman’s Maze-Running Story’, Branwen 2014">Finding Feynman’s Maze Story</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Research Ideas]]></title>
         <id>https://gwern.net/idea</id>
         <link href="https://gwern.net/idea"/>
         <updated>2023-03-02T05:34:08.822Z</updated>
-        <content type="html"><![CDATA[<a href="/idea" id="research-ideas-newest" class="link-annotated link-page" title="‘Research Ideas’, Branwen 2017">Research Ideas</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/idea" id="research-ideas-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Research Ideas’, Branwen 2017">Research Ideas</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Solving Gambling Problem #14 Fast]]></title>
         <id>https://gwern.net/problem-14</id>
         <link href="https://gwern.net/problem-14"/>
         <updated>2023-02-02T10:10:09.327Z</updated>
-        <content type="html"><![CDATA[<a href="/problem-14" id="problem-14-newest" class="link-annotated link-page" title="‘Problem 14 Dynamic Programming Solutions’, Branwen et al 2022">Solving Gambling Problem #14 Fast</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/problem-14" id="problem-14-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Problem 14 Dynamic Programming Solutions’, Branwen et al 2022">Solving Gambling Problem #14 Fast</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Do Hipsters Steal Stuff?]]></title>
         <id>https://gwern.net/larping</id>
         <link href="https://gwern.net/larping"/>
         <updated>2023-02-02T10:10:09.331Z</updated>
-        <content type="html"><![CDATA[<a href="/larping" id="larp-newest" class="link-annotated link-page" title="'Why Do Hipsters Steal Stuff?', Gwern 2022">Why Do Hipsters Steal Stuff?</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/larping" id="larp-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Why Do Hipsters Steal Stuff?', Gwern 2022">Why Do Hipsters Steal Stuff?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Critical Reading: Fake Journal Club]]></title>
         <id>https://gwern.net/fake-journal-club</id>
         <link href="https://gwern.net/fake-journal-club"/>
         <updated>2023-02-02T10:10:09.332Z</updated>
-        <content type="html"><![CDATA[<a href="/fake-journal-club" id="gwern-fake-journal-club" class="link-annotated link-page" title="‘Fake Journal Club: Teaching Critical Reading’, Branwen 2022">Critical Reading: Fake Journal Club</a>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fake-journal-club" id="gwern-fake-journal-club" class="link-annotated link-page has-annotation spawns-popin" title="‘Fake Journal Club: Teaching Critical Reading’, Branwen 2022">Critical Reading: Fake Journal Club</a></p>]]></content>
     </entry>
 </feed>
