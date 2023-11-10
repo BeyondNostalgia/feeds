@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://justine.lol</id>
     <title>Justine Tunney</title>
-    <updated>2023-11-09T17:33:15.442Z</updated>
+    <updated>2023-11-10T05:32:43.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://justine.lol/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[cosmopolitan third edition]]></title>
+        <id>http://justine.lol/cosmo3/</id>
+        <link href="http://justine.lol/cosmo3/"/>
+        <updated>2023-11-10T05:32:38.098Z</updated>
+        <content type="html"><![CDATA[<a href="cosmo3/">cosmopolitan third edition</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[deepmind sorting algorithm]]></title>
         <id>http://justine.lol/sorting/</id>
