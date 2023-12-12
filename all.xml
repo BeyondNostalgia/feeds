@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-12T05:33:00.662Z</updated>
+    <updated>2023-12-12T17:33:06.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Catitecture: Better Cat Window Boxes (Gwern Branwen)]]></title>
@@ -87,6 +87,13 @@
         <link href="https://gwern.net/larping"/>
         <updated>2023-02-02T10:10:09.331Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/larping" id="larp-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Why Do Hipsters Steal Stuff?', Gwern 2022">Why Do Hipsters Steal Stuff?</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bash one-liners for llms (Justine Tunney)]]></title>
+        <id>http://justine.lol/oneliners/</id>
+        <link href="http://justine.lol/oneliners/"/>
+        <updated>2023-12-12T17:33:01.414Z</updated>
+        <content type="html"><![CDATA[<a href="oneliners/">bash one-liners for llms</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cosmopolitan third edition (Justine Tunney)]]></title>

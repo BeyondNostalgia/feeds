@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://justine.lol</id>
     <title>Justine Tunney</title>
-    <updated>2023-12-12T05:33:00.664Z</updated>
+    <updated>2023-12-12T17:33:06.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://justine.lol/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[bash one-liners for llms]]></title>
+        <id>http://justine.lol/oneliners/</id>
+        <link href="http://justine.lol/oneliners/"/>
+        <updated>2023-12-12T17:33:01.414Z</updated>
+        <content type="html"><![CDATA[<a href="oneliners/">bash one-liners for llms</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cosmopolitan third edition]]></title>
         <id>http://justine.lol/cosmo3/</id>
