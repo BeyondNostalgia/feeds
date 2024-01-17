@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-01-16T17:33:54.532Z</updated>
+    <updated>2024-01-17T05:33:34.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Dropcap Generation With AI]]></title>
+        <id>https://gwern.net/dropcap</id>
+        <link href="https://gwern.net/dropcap"/>
+        <updated>2024-01-17T05:33:26.221Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/dropcap" id="dropcap-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Dropcap Generation With AI', Gwern 2023">Dropcap Generation With AI</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Catitecture: Better Cat Window Boxes]]></title>
         <id>https://gwern.net/catitecture</id>
@@ -81,12 +88,5 @@
         <link href="https://gwern.net/problem-14"/>
         <updated>2023-02-02T10:10:09.327Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/problem-14" id="problem-14-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Problem 14 Dynamic Programming Solutions’, Branwen et al 2022">Solving Gambling Problem #14 Fast</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Do Hipsters Steal Stuff?]]></title>
-        <id>https://gwern.net/larping</id>
-        <link href="https://gwern.net/larping"/>
-        <updated>2023-02-02T10:10:09.331Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/larping" id="larp-newest" class="link-annotated link-page has-annotation spawns-popin" title="'Why Do Hipsters Steal Stuff?', Gwern 2022">Why Do Hipsters Steal Stuff?</a></p>]]></content>
     </entry>
 </feed>
