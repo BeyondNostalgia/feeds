@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-02-29T05:32:42.008Z</updated>
+    <updated>2024-02-29T17:32:35.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -55,11 +55,13 @@
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/aunn" id="aunn-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Absolute Unit NNs: Regression-Based MLPs for Everything’, Gwern 2023">Absolute Unit NNs: MLPs for Everything</a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Impossibility of Knowledge of Retrocognitive Knowledge]]></title>
+        <title type="html"><![CDATA[Impossibility of Knowledge of Retrocognitive
+Knowledge]]></title>
         <id>https://gwern.net/retrocognition</id>
         <link href="https://gwern.net/retrocognition"/>
         <updated>2023-06-11T17:32:56.339Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/retrocognition" id="retrocognitive-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘The Impossibility of Knowledge of Retrocognitive Knowledge’, gwern 2023">Impossibility of Knowledge of Retrocognitive Knowledge</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/retrocognition" id="retrocognitive-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘The Impossibility of Knowledge of Retrocognitive Knowledge’, gwern 2023">Impossibility of Knowledge of Retrocognitive
+Knowledge</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“You And Your Research”]]></title>
@@ -76,11 +78,13 @@
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/maze" id="feynman-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Feynman’s Maze-Running Story’, Branwen 2014">Finding Feynman’s Maze Story</a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Research Ideas]]></title>
+        <title type="html"><![CDATA[Research
+Ideas]]></title>
         <id>https://gwern.net/idea</id>
         <link href="https://gwern.net/idea"/>
         <updated>2023-03-02T05:34:08.822Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/idea" id="research-ideas-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Research Ideas’, Branwen 2017">Research Ideas</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/idea" id="research-ideas-newest" class="link-annotated link-page has-annotation spawns-popin" title="‘Research Ideas’, Branwen 2017">Research
+Ideas</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Solving Gambling Problem #14 Fast]]></title>
