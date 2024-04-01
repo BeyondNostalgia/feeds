@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-03-31T17:32:42.661Z</updated>
+    <updated>2024-04-01T05:34:08.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://gwern.net/review/quantum-thief</id>
         <link href="https://gwern.net/review/quantum-thief"/>
         <updated>2024-03-29T17:32:55.718Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/quantum-thief" id="quantum-thief-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Review Of The Quantum Thief Trilogy', Gwern 2022"><em>The Quantum Thief</em> review</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/quantum-thief" id="quantum-thief-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Review Of <em>The Quantum Thief</em> Trilogy', Gwern 2022"><em>The Quantum Thief</em> review</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dropcap Generation With AI]]></title>
