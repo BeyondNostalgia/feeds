@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-04-08T05:32:46.357Z</updated>
+    <updated>2024-04-08T17:33:23.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -69,10 +69,17 @@
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/invertornot" id="invertornot" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Research Ideas § InvertOrNot', Gwern 2017">InvertOrNot.com</a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mood disorders & Elon Musk]]></title>
-        <id>https://gwern.net/doc/psychiatry/bipolar/elon-musk/index</id>
-        <link href="https://gwern.net/doc/psychiatry/bipolar/elon-musk/index"/>
-        <updated>2024-04-05T17:32:47.466Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/doc/psychiatry/bipolar/elon-musk/index" id="musk-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Elon Musk (BP) tag', Gwern 2024">Mood disorders &amp; Elon Musk</a></p>]]></content>
+        <title type="html"><![CDATA[Novelty-Net sampling]]></title>
+        <id>https://gwern.net/novelty-net</id>
+        <link href="https://gwern.net/novelty-net"/>
+        <updated>2024-04-08T17:33:15.732Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/novelty-net" id="novelty-new" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Research Ideas § Novelty Nets', Gwern 2017">Novelty-Net sampling</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⁠Free-Play period]]></title>
+        <id>https://gwern.net/free-play</id>
+        <link href="https://gwern.net/free-play"/>
+        <updated>2024-04-08T17:33:15.733Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/free-play" id="free-play-new" class="link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin has-indicator-hook"><span class="indicator-hook"></span>⁠Free-Play period</a></p>]]></content>
     </entry>
 </feed>
