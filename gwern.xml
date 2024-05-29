@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-05-29T05:34:19.957Z</updated>
+    <updated>2024-05-29T17:34:06.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
-        <title type="html"><![CDATA[⁠Crumb review]]></title>
+        <title type="html"><![CDATA[Crumb review]]></title>
         <id>https://gwern.net/review/crumb</id>
         <link href="https://gwern.net/review/crumb"/>
         <updated>2024-05-25T17:33:34.181Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/crumb" id="crumb-newest" class="link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin has-indicator-hook"><span class="indicator-hook"></span><em>⁠Crumb</em> review</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/crumb" id="crumb-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Review Of <em>Crumb</em>', Gwern 2024"><em>Crumb</em> review</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Timecrimes review: Time Travel In Hell]]></title>
