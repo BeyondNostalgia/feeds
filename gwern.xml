@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-06-19T05:36:58.943Z</updated>
+    <updated>2024-06-19T17:34:11.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[⁠Last Unicorn review]]></title>
+        <id>https://gwern.net/review/the-last-unicorn</id>
+        <link href="https://gwern.net/review/the-last-unicorn"/>
+        <updated>2024-06-19T17:34:03.922Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/the-last-unicorn" id="unicorn-newest" class="link-page link-modified-recently in-list has-content spawns-popin has-indicator-hook"><span class="indicator-hook"></span><em>⁠Last Unicorn</em> review</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crumb review]]></title>
         <id>https://gwern.net/review/crumb</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/invertornot"/>
         <updated>2024-04-05T17:32:47.463Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/invertornot" id="invertornot" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'InvertOrNot.com Proposal', Gwern 2021">InvertOrNot.com</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novelty-Net sampling]]></title>
-        <id>https://gwern.net/novelty-net</id>
-        <link href="https://gwern.net/novelty-net"/>
-        <updated>2024-04-08T17:33:15.732Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/novelty-net" id="novelty-new" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Novelty Nets: Classifier Anti-Guidance', Gwern 2024">Novelty-Net sampling</a></p>]]></content>
     </entry>
 </feed>
