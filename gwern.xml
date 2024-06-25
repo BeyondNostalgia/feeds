@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-06-25T05:33:45.314Z</updated>
+    <updated>2024-06-25T17:32:58.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“Impossibility of Superintelligent Rubik’s Cube Solver”]]></title>
+        <id>https://gwern.net/rubiks-cube</id>
+        <link href="https://gwern.net/rubiks-cube"/>
+        <updated>2024-06-25T17:32:51.671Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rubiks-cube" id="rubik-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'On the Impossibility of Superintelligent Rubik’s Cube Solvers', Gwern et al 2023">“Impossibility of Superintelligent Rubik’s Cube Solver”</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⁠Last Unicorn review]]></title>
         <id>https://gwern.net/review/the-last-unicorn</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/aunn"/>
         <updated>2023-07-23T17:33:01.954Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/aunn" id="aunn-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="‘Absolute Unit NNs: Regression-Based MLPs for Everything’, Gwern 2023">Absolute Unit NNs: MLPs for Everything</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InvertOrNot.com]]></title>
-        <id>https://gwern.net/invertornot</id>
-        <link href="https://gwern.net/invertornot"/>
-        <updated>2024-04-05T17:32:47.463Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/invertornot" id="invertornot" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'InvertOrNot.com Proposal', Gwern 2021">InvertOrNot.com</a></p>]]></content>
     </entry>
 </feed>
