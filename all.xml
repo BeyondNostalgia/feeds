@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-23T05:35:16.763Z</updated>
+    <updated>2024-08-23T17:34:54.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[“Impossibility of AI Rubik’s Cube Solver” (Gwern Branwen)]]></title>
@@ -80,6 +80,13 @@
         <link href="https://gwern.net/aunn"/>
         <updated>2023-07-23T17:33:01.954Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/aunn" id="aunn-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="‘Absolute Unit NNs: Regression-Based MLPs for Everything’, Gwern 2023">Absolute Unit NNs: MLPs for Everything</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[we're being erased from history (Justine Tunney)]]></title>
+        <id>http://justine.lol/history/</id>
+        <link href="http://justine.lol/history/"/>
+        <updated>2024-08-23T17:34:50.814Z</updated>
+        <content type="html"><![CDATA[<a href="history/">we're being erased from history</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[llama now goes faster on cpus (Justine Tunney)]]></title>
