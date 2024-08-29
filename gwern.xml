@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-08-27T05:35:26.110Z</updated>
+    <updated>2024-08-29T05:36:05.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Why To Not Write A Book]]></title>
+        <id>https://gwern.net/book-writing</id>
+        <link href="https://gwern.net/book-writing"/>
+        <updated>2024-08-29T05:35:59.496Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/book-writing" id="book-writing-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Why To Not Write A Book', Gwern 2024">Why To Not Write A Book</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Idea: number search engine]]></title>
         <id>https://gwern.net/oen</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/tla"/>
         <updated>2023-10-02T17:33:01.744Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/tla" id="tla-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'CQK Is The First Unused TLA', Gwern 2023">CQK Is The First Unused TLA</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Suzanne Delage” Solved]]></title>
-        <id>https://gwern.net/suzanne-delage</id>
-        <link href="https://gwern.net/suzanne-delage"/>
-        <updated>2023-08-28T17:33:25.051Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/suzanne-delage" id="suzanne-2" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="‘Interpreting ‘Suzanne Delage’ as _Dracula_’, Gwern 2009">“Suzanne Delage” Solved</a></p>]]></content>
     </entry>
 </feed>
