@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-09-01T17:33:05.217Z</updated>
+    <updated>2024-09-02T05:36:41.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://gwern.net/oen</id>
         <link href="https://gwern.net/oen"/>
         <updated>2024-08-26T17:33:58.378Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oen" id="oen-newest" class="link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" title="'Search Engine for Numbers', Gwern 2024">Idea: number search engine</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oen" id="oen-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Number Search Engine via NN Embeddings', Gwern 2024">Idea: number search engine</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Impossibility of AI Rubik’s Cube Solver”]]></title>
