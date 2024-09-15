@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-15T05:36:18.515Z</updated>
+    <updated>2024-09-15T17:34:18.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Why To Not Write A Book (Gwern Branwen)]]></title>
@@ -82,25 +82,11 @@
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/tla" id="tla-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'CQK Is The First Unused TLA', Gwern 2023">CQK Is The First Unused TLA</a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ai training shouldn't erase authorship (Justine Tunney)]]></title>
-        <id>http://justine.lol/history/</id>
-        <link href="http://justine.lol/history/"/>
-        <updated>2024-08-23T17:34:50.814Z</updated>
-        <content type="html"><![CDATA[<a href="history/">ai training shouldn't erase authorship</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[llama now goes faster on cpus (Justine Tunney)]]></title>
         <id>http://justine.lol/matmul/</id>
         <link href="http://justine.lol/matmul/"/>
         <updated>2024-04-01T05:33:58.371Z</updated>
         <content type="html"><![CDATA[<a href="matmul/">llama now goes faster on cpus</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bash one-liners for llms (Justine Tunney)]]></title>
-        <id>http://justine.lol/oneliners/</id>
-        <link href="http://justine.lol/oneliners/"/>
-        <updated>2023-12-12T17:33:01.414Z</updated>
-        <content type="html"><![CDATA[<a href="oneliners/">bash one-liners for llms</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cosmopolitan third edition (Justine Tunney)]]></title>
@@ -110,11 +96,39 @@
         <content type="html"><![CDATA[<a href="cosmo3/">cosmopolitan third edition</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[bash one-liners for llms (Justine Tunney)]]></title>
+        <id>http://justine.lol/oneliners/</id>
+        <link href="http://justine.lol/oneliners/"/>
+        <updated>2023-12-12T17:33:01.414Z</updated>
+        <content type="html"><![CDATA[<a href="oneliners/">bash one-liners for llms</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lisp with gc in 436 bytes (Justine Tunney)]]></title>
+        <id>http://justine.lol/sectorlisp2/</id>
+        <link href="http://justine.lol/sectorlisp2/"/>
+        <updated>2023-01-25T11:10:46.705Z</updated>
+        <content type="html"><![CDATA[<a href="sectorlisp2/">lisp with gc in 436 bytes</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lambda calculus in 383 bytes (Justine Tunney)]]></title>
+        <id>http://justine.lol/lambda/</id>
+        <link href="http://justine.lol/lambda/"/>
+        <updated>2023-01-25T11:10:46.702Z</updated>
+        <content type="html"><![CDATA[<a href="lambda/">lambda calculus in 383 bytes</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[deepmind sorting algorithm (Justine Tunney)]]></title>
         <id>http://justine.lol/sorting/</id>
         <link href="http://justine.lol/sorting/"/>
         <updated>2023-06-12T17:33:57.386Z</updated>
         <content type="html"><![CDATA[<a href="sorting/">deepmind sorting algorithm</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ai training shouldn't erase authorship (Justine Tunney)]]></title>
+        <id>http://justine.lol/history/</id>
+        <link href="http://justine.lol/history/"/>
+        <updated>2024-08-23T17:34:50.814Z</updated>
+        <content type="html"><![CDATA[<a href="history/">ai training shouldn't erase authorship</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[edge ai just got faster (Justine Tunney)]]></title>
@@ -178,20 +192,6 @@
         <link href="http://justine.lol/ftrace/"/>
         <updated>2023-01-25T11:10:46.700Z</updated>
         <content type="html"><![CDATA[<a href="ftrace/">logging c functions</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lambda calculus in 383 bytes (Justine Tunney)]]></title>
-        <id>http://justine.lol/lambda/</id>
-        <link href="http://justine.lol/lambda/"/>
-        <updated>2023-01-25T11:10:46.702Z</updated>
-        <content type="html"><![CDATA[<a href="lambda/">lambda calculus in 383 bytes</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lisp with gc in 436 bytes (Justine Tunney)]]></title>
-        <id>http://justine.lol/sectorlisp2/</id>
-        <link href="http://justine.lol/sectorlisp2/"/>
-        <updated>2023-01-25T11:10:46.705Z</updated>
-        <content type="html"><![CDATA[<a href="sectorlisp2/">lisp with gc in 436 bytes</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[monospace acid test (Justine Tunney)]]></title>
