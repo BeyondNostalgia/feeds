@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-09-25T05:38:27.229Z</updated>
+    <updated>2024-09-25T17:36:53.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Why So Few Matt Levines?]]></title>
+        <id>https://gwern.net/matt-levine</id>
+        <link href="https://gwern.net/matt-levine"/>
+        <updated>2024-09-25T17:36:46.868Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/matt-levine" id="matt-levine-newest" class="link-page link-modified-recently in-list has-content spawns-popin">Why So Few Matt Levines?</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why To Not Write A Book]]></title>
         <id>https://gwern.net/book-writing</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/utext"/>
         <updated>2023-10-19T17:32:50.545Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/utext" id="utext-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Utext: Rich Unicode Documents', Gwern 2023">Utext: Rich Unicode Documents</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CQK Is The First Unused TLA]]></title>
-        <id>https://gwern.net/tla</id>
-        <link href="https://gwern.net/tla"/>
-        <updated>2023-10-02T17:33:01.744Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/tla" id="tla-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'CQK Is The First Unused TLA', Gwern 2023">CQK Is The First Unused TLA</a></p>]]></content>
     </entry>
 </feed>
