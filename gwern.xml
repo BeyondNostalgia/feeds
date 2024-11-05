@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-11-05T05:38:19.494Z</updated>
+    <updated>2024-11-05T17:37:03.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Unsorting Lists for Diversity?]]></title>
+        <id>https://gwern.net/unsort</id>
+        <link href="https://gwern.net/unsort"/>
+        <updated>2024-11-05T17:36:57.071Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/unsort" id="unsort-newest" class="link-page link-modified-recently in-list has-content spawns-popin">Unsorting Lists for Diversity?</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why So Few Matt Levines?]]></title>
         <id>https://gwern.net/matt-levine</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/catitecture"/>
         <updated>2023-11-05T05:32:58.132Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/catitecture" id="catitecture-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'<em>Cat</em> itecture: Better Cat Window Boxes', Gwern 2023"><em>Cat</em>itecture: Better Cat Window Boxes</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utext: Rich Unicode Documents]]></title>
-        <id>https://gwern.net/utext</id>
-        <link href="https://gwern.net/utext"/>
-        <updated>2023-10-19T17:32:50.545Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/utext" id="utext-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Utext: Rich Unicode Documents', Gwern 2023">Utext: Rich Unicode Documents</a></p>]]></content>
     </entry>
 </feed>
