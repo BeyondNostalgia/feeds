@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-11-09T05:35:54.352Z</updated>
+    <updated>2024-11-09T17:33:43.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Website Colors: Red vs Blue]]></title>
+        <id>https://gwern.net/web-color</id>
+        <link href="https://gwern.net/web-color"/>
+        <updated>2024-11-09T17:33:36.721Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/web-color" id="webcolor-newest" class="link-page link-modified-recently in-list has-content spawns-popin">Website Colors: Red vs Blue</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unsorting Lists for Diversity?]]></title>
         <id>https://gwern.net/unsort</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/dropcap"/>
         <updated>2024-01-17T05:33:26.221Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/dropcap" id="dropcap-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Dropcap Generation With AI', Gwern 2023">Dropcap Generation With AI</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catitecture: Better Cat Window Boxes]]></title>
-        <id>https://gwern.net/catitecture</id>
-        <link href="https://gwern.net/catitecture"/>
-        <updated>2023-11-05T05:32:58.132Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/catitecture" id="catitecture-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'<em>Cat</em> itecture: Better Cat Window Boxes', Gwern 2023"><em>Cat</em>itecture: Better Cat Window Boxes</a></p>]]></content>
     </entry>
 </feed>
