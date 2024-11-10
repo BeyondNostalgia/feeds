@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-11-10T05:35:03.606Z</updated>
+    <updated>2024-11-10T17:32:51.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/web-color</id>
         <link href="https://gwern.net/web-color"/>
         <updated>2024-11-09T17:33:36.721Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/web-color" id="webcolor-newest" class="link-page link-modified-recently in-list has-content spawns-popin">Website Colors: Red vs Blue</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/web-color" id="webcolor-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Website Colors: Red vs Blue', Gwern 2024">Website Colors: Red vs Blue</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Unsorting Lists for Diversity?]]></title>
