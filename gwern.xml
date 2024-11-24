@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-11-23T17:34:54.960Z</updated>
+    <updated>2024-11-24T05:37:43.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Self-funding Harberger copyright tax]]></title>
+        <id>https://gwern.net/harberger</id>
+        <link href="https://gwern.net/harberger"/>
+        <updated>2024-11-24T05:37:36.775Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/harberger" id="harberger-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Self-Funding Harberger taxes', Gwern 2024">Self-funding Harberger copyright tax</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Website Colors: Red vs Blue]]></title>
         <id>https://gwern.net/web-color</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/review/quantum-thief"/>
         <updated>2024-03-29T17:32:55.718Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/quantum-thief" id="quantum-thief-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Review Of <em>The Quantum Thief</em> Trilogy', Gwern 2022"><em>The Quantum Thief</em> review</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropcap Generation With AI]]></title>
-        <id>https://gwern.net/dropcap</id>
-        <link href="https://gwern.net/dropcap"/>
-        <updated>2024-01-17T05:33:26.221Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/dropcap" id="dropcap-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Dropcap Generation With AI', Gwern 2023">Dropcap Generation With AI</a></p>]]></content>
     </entry>
 </feed>
