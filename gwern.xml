@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-12-06T17:38:11.875Z</updated>
+    <updated>2024-12-07T05:38:20.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Second Life Sentences]]></title>
+        <id>https://gwern.net/second-life-sentence</id>
+        <link href="https://gwern.net/second-life-sentence"/>
+        <updated>2024-12-07T05:38:15.500Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/second-life-sentence" id="second-life-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Second Life Sentences', Gwern 2024">Second Life Sentences</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Self-funding Harberger copyright tax]]></title>
         <id>https://gwern.net/harberger</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/review/timecrimes"/>
         <updated>2024-03-29T17:32:55.711Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/timecrimes" id="time-crimes-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'<em>Timecrimes</em>: Time Travel In Hell', Gwern 2023"><em>Timecrimes</em> review: Time Travel In Hell</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Quantum Thief review]]></title>
-        <id>https://gwern.net/review/quantum-thief</id>
-        <link href="https://gwern.net/review/quantum-thief"/>
-        <updated>2024-03-29T17:32:55.718Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/quantum-thief" id="quantum-thief-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Review Of <em>The Quantum Thief</em> Trilogy', Gwern 2022"><em>The Quantum Thief</em> review</a></p>]]></content>
     </entry>
 </feed>
