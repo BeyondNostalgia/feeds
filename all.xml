@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-12T17:39:07.880Z</updated>
+    <updated>2024-12-13T05:40:04.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking LLM Creativity? (Gwern Branwen)]]></title>
+        <id>https://gwern.net/creative-benchmark</id>
+        <link href="https://gwern.net/creative-benchmark"/>
+        <updated>2024-12-13T05:39:56.578Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/creative-benchmark" id="llm-benchmarking-newest" class="link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" title="'Benchmarking LLM Diversity &amp;amp; Creativity', Gwern 2024">Benchmarking LLM Creativity?</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Second Life Sentences (Gwern Branwen)]]></title>
         <id>https://gwern.net/second-life-sentence</id>
@@ -73,13 +80,6 @@
         <link href="https://gwern.net/review/crumb"/>
         <updated>2024-05-25T17:33:34.181Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/crumb" id="crumb-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Review Of <em>Crumb</em>', Gwern 2024"><em>Crumb</em> review</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timecrimes review: Time Travel In Hell (Gwern Branwen)]]></title>
-        <id>https://gwern.net/review/timecrimes</id>
-        <link href="https://gwern.net/review/timecrimes"/>
-        <updated>2024-03-29T17:32:55.711Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/timecrimes" id="time-crimes-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'<em>Timecrimes</em>: Time Travel In Hell', Gwern 2023"><em>Timecrimes</em> review: Time Travel In Hell</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[weird lexical syntax (Justine Tunney)]]></title>
