@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2024-12-31T05:37:08.466Z</updated>
+    <updated>2024-12-31T17:34:08.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/fiction/christmas</id>
         <link href="https://gwern.net/fiction/christmas"/>
         <updated>2024-12-29T05:35:38.662Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/christmas" id="christmas-newest" class="link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin">“A Christmas Protestation”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/christmas" id="christmas-newest" class="link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" title="'A Christmas Protestation', o1-pro et al 2024">“A Christmas Protestation”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Benchmarking LLM Creativity?]]></title>
