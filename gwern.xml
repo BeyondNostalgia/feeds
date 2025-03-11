@@ -2,84 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-03-11T05:38:16.243Z</updated>
+    <updated>2025-03-11T17:38:10.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[On the oldest possible food]]></title>
+        <id>https://gwern.net/oldest-food</id>
+        <link href="https://gwern.net/oldest-food"/>
+        <updated>2025-03-11T17:38:04.459Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oldest-food" id="old-food-newest" class="prefetch-not link-page link-modified-recently in-list has-content spawns-popin">On the oldest possible food</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rock-Paper-Scissors as game mechanic]]></title>
+        <id>https://gwern.net/rock-paper-scissors</id>
+        <link href="https://gwern.net/rock-paper-scissors"/>
+        <updated>2025-03-11T17:38:04.460Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rock-paper-scissors" id="rps-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Rock-Paper-Scissors Optimality', Gwern 2024">Rock-Paper-Scissors as game mechanic</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“A Christmas Protestation”]]></title>
         <id>https://gwern.net/fiction/christmas</id>
         <link href="https://gwern.net/fiction/christmas"/>
         <updated>2024-12-29T05:35:38.662Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/christmas" id="christmas-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'A Christmas Protestation', o1-pro et al 2024">“A Christmas Protestation”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/christmas" id="christmas-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'A Christmas Protestation', o1-pro et al 2024">“A Christmas Protestation”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Benchmarking LLM Creativity?]]></title>
         <id>https://gwern.net/creative-benchmark</id>
         <link href="https://gwern.net/creative-benchmark"/>
         <updated>2024-12-13T05:39:56.578Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/creative-benchmark" id="llm-benchmarking-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Towards Benchmarking LLM Diversity &amp;amp; Creativity', Gwern 2024">Benchmarking LLM Creativity?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/creative-benchmark" id="llm-benchmarking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Towards Benchmarking LLM Diversity &amp;amp; Creativity', Gwern 2024">Benchmarking LLM Creativity?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Second Life Sentences]]></title>
         <id>https://gwern.net/second-life-sentence</id>
         <link href="https://gwern.net/second-life-sentence"/>
         <updated>2024-12-07T05:38:15.500Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/second-life-sentence" id="second-life-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Second Life Sentences', Gwern 2024">Second Life Sentences</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/second-life-sentence" id="second-life-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Second Life Sentences', Gwern 2024">Second Life Sentences</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Self-funding Harberger copyright tax]]></title>
         <id>https://gwern.net/harberger</id>
         <link href="https://gwern.net/harberger"/>
         <updated>2024-11-24T05:37:36.775Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/harberger" id="harberger-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Self-Funding Harberger Taxes', Gwern 2024">Self-funding Harberger copyright tax</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/harberger" id="harberger-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Self-Funding Harberger Taxes', Gwern 2024">Self-funding Harberger copyright tax</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Website Colors: Red vs Blue]]></title>
         <id>https://gwern.net/web-color</id>
         <link href="https://gwern.net/web-color"/>
         <updated>2024-11-09T17:33:36.721Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/web-color" id="webcolor-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Website Colors: Red vs Blue', Gwern 2024">Website Colors: Red vs Blue</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/web-color" id="webcolor-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Website Colors: Red vs Blue', Gwern 2024">Website Colors: Red vs Blue</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Unsorting Lists for Diversity?]]></title>
         <id>https://gwern.net/unsort</id>
         <link href="https://gwern.net/unsort"/>
         <updated>2024-11-05T17:36:57.071Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/unsort" id="unsort-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Can You Unsort Lists for Diversity?', Gwern 2019">Unsorting Lists for Diversity?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/unsort" id="unsort-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Can You Unsort Lists for Diversity?', Gwern 2019">Unsorting Lists for Diversity?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why So Few Matt Levines?]]></title>
         <id>https://gwern.net/matt-levine</id>
         <link href="https://gwern.net/matt-levine"/>
         <updated>2024-09-25T17:36:46.868Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/matt-levine" id="matt-levine-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Why So Few Matt Levines?', Gwern 2024">Why So Few Matt Levines?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/matt-levine" id="matt-levine-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Why So Few Matt Levines?', Gwern 2024">Why So Few Matt Levines?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why To Not Write A Book]]></title>
         <id>https://gwern.net/book-writing</id>
         <link href="https://gwern.net/book-writing"/>
         <updated>2024-08-29T05:35:59.496Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/book-writing" id="book-writing-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Why To Not Write A Book', Gwern 2024">Why To Not Write A Book</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/book-writing" id="book-writing-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Why To Not Write A Book', Gwern 2024">Why To Not Write A Book</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Idea: number search engine]]></title>
         <id>https://gwern.net/oen</id>
         <link href="https://gwern.net/oen"/>
         <updated>2024-08-26T17:33:58.378Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oen" id="oen-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Number Search Engine via NN Embeddings', Gwern 2024">Idea: number search engine</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Impossibility of AI Rubik’s Cube Solver”]]></title>
-        <id>https://gwern.net/rubiks-cube</id>
-        <link href="https://gwern.net/rubiks-cube"/>
-        <updated>2024-06-25T17:32:51.671Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rubiks-cube" id="rubik-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'On the Impossibility of Superintelligent Rubik’s Cube Solvers', Gwern et al 2023">“Impossibility of AI Rubik’s Cube Solver”</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Unicorn review]]></title>
-        <id>https://gwern.net/review/the-last-unicorn</id>
-        <link href="https://gwern.net/review/the-last-unicorn"/>
-        <updated>2024-06-19T17:34:03.922Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/the-last-unicorn" id="unicorn-newest" class="link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Review Of <em>The Last Unicorn</em>', Gwern 2024"><em>Last Unicorn</em> review</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oen" id="oen-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Number Search Engine via NN Embeddings', Gwern 2024">Idea: number search engine</a></p>]]></content>
     </entry>
 </feed>
