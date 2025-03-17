@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-03-17T05:38:30.018Z</updated>
+    <updated>2025-03-17T17:37:31.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Running Lights as Complex Disasters]]></title>
+        <id>https://gwern.net/traffic-lights</id>
+        <link href="https://gwern.net/traffic-lights"/>
+        <updated>2025-03-17T17:37:24.916Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/traffic-lights" id="running-lights-newest" class="prefetch-not link-page link-modified-recently in-list has-content spawns-popin">Running Lights as Complex Disasters</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On the oldest possible food]]></title>
         <id>https://gwern.net/oldest-food</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/book-writing"/>
         <updated>2024-08-29T05:35:59.496Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/book-writing" id="book-writing-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Why To Not Write A Book', Gwern 2024">Why To Not Write A Book</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idea: number search engine]]></title>
-        <id>https://gwern.net/oen</id>
-        <link href="https://gwern.net/oen"/>
-        <updated>2024-08-26T17:33:58.378Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oen" id="oen-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Number Search Engine via NN Embeddings', Gwern 2024">Idea: number search engine</a></p>]]></content>
     </entry>
 </feed>
