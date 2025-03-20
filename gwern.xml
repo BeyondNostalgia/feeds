@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-03-20T05:37:53.457Z</updated>
+    <updated>2025-03-20T17:38:07.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Writing Non-Biblical Sentences]]></title>
+        <id>https://gwern.net/non-biblical-sentences</id>
+        <link href="https://gwern.net/non-biblical-sentences"/>
+        <updated>2025-03-20T17:38:00.455Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Miscellaneous § LLM Challenge: Writing Non-Biblical Sentences', Gwern 2009">Writing Non-Biblical Sentences</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Running Lights as Complex Disasters]]></title>
         <id>https://gwern.net/traffic-lights</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/matt-levine"/>
         <updated>2024-09-25T17:36:46.868Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/matt-levine" id="matt-levine-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Why So Few Matt Levines?', Gwern 2024">Why So Few Matt Levines?</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why To Not Write A Book]]></title>
-        <id>https://gwern.net/book-writing</id>
-        <link href="https://gwern.net/book-writing"/>
-        <updated>2024-08-29T05:35:59.496Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/book-writing" id="book-writing-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Why To Not Write A Book', Gwern 2024">Why To Not Write A Book</a></p>]]></content>
     </entry>
 </feed>
