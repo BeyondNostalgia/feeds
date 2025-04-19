@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-04-15T05:39:52.103Z</updated>
+    <updated>2025-04-19T01:58:09.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -74,12 +74,5 @@
         <link href="https://gwern.net/unsort"/>
         <updated>2024-11-05T17:36:57.071Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/unsort" id="unsort-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Can You Unsort Lists for Diversity?', Gwern 2019">Unsorting Lists for Diversity?</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why So Few Matt Levines?]]></title>
-        <id>https://gwern.net/matt-levine</id>
-        <link href="https://gwern.net/matt-levine"/>
-        <updated>2024-09-25T17:36:46.868Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/matt-levine" id="matt-levine-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Why So Few Matt Levines?', Gwern 2024">Why So Few Matt Levines?</a></p>]]></content>
     </entry>
 </feed>
