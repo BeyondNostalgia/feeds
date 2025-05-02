@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-05-02T05:40:31.527Z</updated>
+    <updated>2025-05-02T17:38:25.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Review: I Remember Lemuria!]]></title>
+        <id>https://gwern.net/review/lemuria</id>
+        <link href="https://gwern.net/review/lemuria"/>
+        <updated>2025-05-02T17:38:18.904Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/lemuria" id="lemuria-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Review of <em>I Remember Lemuria!</em>', Gwern 2025">Review: <em>I Remember Lemuria!</em></a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing Non-Biblical Sentences]]></title>
         <id>https://gwern.net/non-biblical-sentences</id>
@@ -67,12 +74,5 @@
         <link href="https://gwern.net/web-color"/>
         <updated>2024-11-09T17:33:36.721Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/web-color" id="webcolor-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Website Colors: Red vs Blue', Gwern 2024">Website Colors: Red vs Blue</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsorting Lists for Diversity?]]></title>
-        <id>https://gwern.net/unsort</id>
-        <link href="https://gwern.net/unsort"/>
-        <updated>2024-11-05T17:36:57.071Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/unsort" id="unsort-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" title="'Can You Unsort Lists for Diversity?', Gwern 2019">Unsorting Lists for Diversity?</a></p>]]></content>
     </entry>
 </feed>
