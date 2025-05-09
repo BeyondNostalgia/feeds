@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-05-09T05:40:38.360Z</updated>
+    <updated>2025-05-09T17:38:27.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/review/lemuria</id>
         <link href="https://gwern.net/review/lemuria"/>
         <updated>2025-05-02T17:38:18.904Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/lemuria" id="lemuria-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="39240" data-filesize-percentage="36" title="'Review of <em>I Remember Lemuria!</em>', Gwern 2025">Review: <em>I Remember Lemuria!</em></a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/lemuria" id="lemuria-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="42434" data-filesize-percentage="38" title="'Review of <em>I Remember Lemuria!</em>', Gwern 2025">Review: <em>I Remember Lemuria!</em></a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Writing Non-Biblical Sentences]]></title>
