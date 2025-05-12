@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-05-12T05:41:17.401Z</updated>
+    <updated>2025-05-12T17:39:23.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Cats As Horror Movie Villains]]></title>
+        <id>https://gwern.net/cat-horror</id>
+        <link href="https://gwern.net/cat-horror"/>
+        <updated>2025-05-12T17:39:16.872Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-page link-modified-recently in-list has-content spawns-popin">Cats As Horror Movie Villains</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“October The First Is Too Late”]]></title>
         <id>https://gwern.net/fiction/october</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/harberger"/>
         <updated>2024-11-24T05:37:36.775Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/harberger" id="harberger-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="30400" data-filesize-percentage="32" title="'Self-Funding Harberger Taxes', Gwern 2024">Self-funding Harberger copyright tax</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Website Colors: Red vs Blue]]></title>
-        <id>https://gwern.net/web-color</id>
-        <link href="https://gwern.net/web-color"/>
-        <updated>2024-11-09T17:33:36.721Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/web-color" id="webcolor-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="17572" data-filesize-percentage="22" title="'Website Colors: Red vs Blue', Gwern 2024">Website Colors: Red vs Blue</a></p>]]></content>
     </entry>
 </feed>
