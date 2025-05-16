@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-05-16T05:41:28.512Z</updated>
+    <updated>2025-05-16T17:38:31.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,21 +10,21 @@
         <id>https://gwern.net/speedrunning</id>
         <link href="https://gwern.net/speedrunning"/>
         <updated>2025-05-15T05:41:21.046Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/speedrunning" id="speedrunning-newest" class="prefetch-not link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="14787" data-filesize-percentage="19">Speedrunning Is Not Such A Waste</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/speedrunning" id="speedrunning-newest" class="prefetch-not link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="14788" data-filesize-percentage="19">Speedrunning Is Not Such A Waste</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cats As Horror Movie Villains]]></title>
         <id>https://gwern.net/cat-horror</id>
         <link href="https://gwern.net/cat-horror"/>
         <updated>2025-05-12T17:39:16.872Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="29766" data-filesize-percentage="31" title="'Cats As Horror Movie Villains', Gwern 2025">Cats As Horror Movie Villains</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="29783" data-filesize-percentage="31" title="'Cats As Horror Movie Villains', Gwern 2025">Cats As Horror Movie Villains</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“October The First Is Too Late”]]></title>
         <id>https://gwern.net/fiction/october</id>
         <link href="https://gwern.net/fiction/october"/>
         <updated>2025-05-10T17:35:26.638Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/october" id="october-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="48328" data-filesize-percentage="40" title="'October The First Is Too Late', Gwern 2025">“October The First Is Too Late”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/october" id="october-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="49998" data-filesize-percentage="41" title="'October The First Is Too Late', Gwern 2025">“October The First Is Too Late”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Review: I Remember Lemuria!]]></title>
