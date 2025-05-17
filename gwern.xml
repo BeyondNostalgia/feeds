@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-05-17T05:38:58.394Z</updated>
+    <updated>2025-05-17T17:36:59.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://gwern.net/fiction/october</id>
         <link href="https://gwern.net/fiction/october"/>
         <updated>2025-05-10T17:35:26.638Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/october" id="october-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="49998" data-filesize-percentage="41" title="'October The First Is Too Late', Gwern 2025">“October The First Is Too Late”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/october" id="october-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="54479" data-filesize-percentage="42" title="'October The First Is Too Late', Gwern 2025">“October The First Is Too Late”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Review: I Remember Lemuria!]]></title>
