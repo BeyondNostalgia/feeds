@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-05-30T17:39:19.549Z</updated>
+    <updated>2025-05-31T05:40:08.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -73,6 +73,6 @@
         <id>https://gwern.net/creative-benchmark</id>
         <link href="https://gwern.net/creative-benchmark"/>
         <updated>2024-12-13T05:39:56.578Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/creative-benchmark" id="llm-benchmarking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="30916" data-filesize-percentage="32" title="'Towards Benchmarking LLM Diversity &amp;amp; Creativity', Gwern 2024">Benchmarking LLM Creativity?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/creative-benchmark" id="llm-benchmarking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="30916" data-filesize-percentage="33" title="'Towards Benchmarking LLM Diversity &amp;amp; Creativity', Gwern 2024">Benchmarking LLM Creativity?</a></p>]]></content>
     </entry>
 </feed>
