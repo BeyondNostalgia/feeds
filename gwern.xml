@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-06-03T05:41:51.927Z</updated>
+    <updated>2025-06-03T17:41:03.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,69 +10,69 @@
         <id>https://gwern.net/speedrunning</id>
         <link href="https://gwern.net/speedrunning"/>
         <updated>2025-05-15T05:41:21.046Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/speedrunning" id="speedrunning-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="15271" data-filesize-percentage="20" title="'Speedrunning Is Not Such A Waste Of Talent', Gwern 2025">Speedrunning Is Not Such A Waste</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/speedrunning" id="speedrunning-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="15271" data-filesize-percentage="20" title="'Speedrunning Is Not Such A Waste Of Talent', Gwern 2025">Speedrunning Is Not Such A Waste</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cats As Horror Movie Villains]]></title>
         <id>https://gwern.net/cat-horror</id>
         <link href="https://gwern.net/cat-horror"/>
         <updated>2025-05-12T17:39:16.872Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="31581" data-filesize-percentage="33" title="'Cats As Horror Movie Villains', Gwern 2025">Cats As Horror Movie Villains</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="31581" data-filesize-percentage="33" title="'Cats As Horror Movie Villains', Gwern 2025">Cats As Horror Movie Villains</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“October The First Is Too Late”]]></title>
         <id>https://gwern.net/fiction/october</id>
         <link href="https://gwern.net/fiction/october"/>
         <updated>2025-05-10T17:35:26.638Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/october" id="october-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="100440" data-filesize-percentage="56" title="'October The First Is Too Late', Gwern 2025">“October The First Is Too Late”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/october" id="october-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="100440" data-filesize-percentage="56" title="'October The First Is Too Late', Gwern 2025">“October The First Is Too Late”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Review: I Remember Lemuria!]]></title>
         <id>https://gwern.net/review/lemuria</id>
         <link href="https://gwern.net/review/lemuria"/>
         <updated>2025-05-02T17:38:18.904Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/lemuria" id="lemuria-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="42434" data-filesize-percentage="38" title="'Review of <em>I Remember Lemuria!</em>', Gwern 2025">Review: <em>I Remember Lemuria!</em></a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/lemuria" id="lemuria-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="42434" data-filesize-percentage="38" title="'Review of <em>I Remember Lemuria!</em>', Gwern 2025">Review: <em>I Remember Lemuria!</em></a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Writing Non-Biblical Sentences]]></title>
         <id>https://gwern.net/non-biblical-sentences</id>
         <link href="https://gwern.net/non-biblical-sentences"/>
         <updated>2025-03-20T17:38:00.455Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="19526" data-filesize-percentage="24" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="19526" data-filesize-percentage="24" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Running Lights as Complex Disasters]]></title>
         <id>https://gwern.net/traffic-lights</id>
         <link href="https://gwern.net/traffic-lights"/>
         <updated>2025-03-17T17:37:24.916Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/traffic-lights" id="running-lights-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="17181" data-filesize-percentage="22" title="'Running Traffic Lights as Complex Disasters', Gwern 2025">Running Lights as Complex Disasters</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/traffic-lights" id="running-lights-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="17181" data-filesize-percentage="22" title="'Running Traffic Lights as Complex Disasters', Gwern 2025">Running Lights as Complex Disasters</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On the oldest possible food]]></title>
         <id>https://gwern.net/oldest-food</id>
         <link href="https://gwern.net/oldest-food"/>
         <updated>2025-03-11T17:38:04.459Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oldest-food" id="old-food-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="15498" data-filesize-percentage="20" title="'Oldest possible food: 20<sub>mya</sub>?', Gwern 2021">On the oldest possible food</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oldest-food" id="old-food-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="15498" data-filesize-percentage="20" title="'Oldest possible food: 20<sub>mya</sub>?', Gwern 2021">On the oldest possible food</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rock-Paper-Scissors as game mechanic]]></title>
         <id>https://gwern.net/rock-paper-scissors</id>
         <link href="https://gwern.net/rock-paper-scissors"/>
         <updated>2025-03-11T17:38:04.460Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rock-paper-scissors" id="rps-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="9572" data-filesize-percentage="12" title="'Rock-Paper-Scissors Optimality', Gwern 2024">Rock-Paper-Scissors as game mechanic</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rock-paper-scissors" id="rps-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="9572" data-filesize-percentage="12" title="'Rock-Paper-Scissors Optimality', Gwern 2024">Rock-Paper-Scissors as game mechanic</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“A Christmas Protestation”]]></title>
         <id>https://gwern.net/fiction/christmas</id>
         <link href="https://gwern.net/fiction/christmas"/>
         <updated>2024-12-29T05:35:38.662Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/christmas" id="christmas-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="5636" data-filesize-percentage="8" title="'A Christmas Protestation', o1-pro et al 2024">“A Christmas Protestation”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/christmas" id="christmas-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="5636" data-filesize-percentage="8" title="'A Christmas Protestation', o1-pro et al 2024">“A Christmas Protestation”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Benchmarking LLM Creativity?]]></title>
         <id>https://gwern.net/creative-benchmark</id>
         <link href="https://gwern.net/creative-benchmark"/>
         <updated>2024-12-13T05:39:56.578Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/creative-benchmark" id="llm-benchmarking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="30916" data-filesize-percentage="33" title="'Towards Benchmarking LLM Diversity &amp;amp; Creativity', Gwern 2024">Benchmarking LLM Creativity?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/creative-benchmark" id="llm-benchmarking-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="30916" data-filesize-percentage="33" title="'Towards Benchmarking LLM Diversity &amp;amp; Creativity', Gwern 2024">Benchmarking LLM Creativity?</a></p>]]></content>
     </entry>
 </feed>
