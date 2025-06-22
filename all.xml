@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-22T05:41:43.898Z</updated>
+    <updated>2025-06-22T17:41:14.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Speedrunning Is Not Such A Waste (Gwern Branwen)]]></title>
@@ -16,7 +16,7 @@
         <id>https://gwern.net/cat-horror</id>
         <link href="https://gwern.net/cat-horror"/>
         <updated>2025-05-12T17:39:16.872Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="31697" data-filesize-percentage="33" title="'Cats As Horror Movie Villains', Gwern 2025">Cats As Horror Movie Villains</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="32219" data-filesize-percentage="33" title="'Cats As Horror Movie Villains', Gwern 2025">Cats As Horror Movie Villains</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“October The First Is Too Late” (Gwern Branwen)]]></title>
@@ -37,7 +37,7 @@
         <id>https://gwern.net/non-biblical-sentences</id>
         <link href="https://gwern.net/non-biblical-sentences"/>
         <updated>2025-03-20T17:38:00.455Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="19526" data-filesize-percentage="24" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="23714" data-filesize-percentage="28" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Running Lights as Complex Disasters (Gwern Branwen)]]></title>
