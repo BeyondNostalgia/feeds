@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-07-02T05:44:31.779Z</updated>
+    <updated>2025-07-02T17:40:55.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://gwern.net/non-biblical-sentences</id>
         <link href="https://gwern.net/non-biblical-sentences"/>
         <updated>2025-03-20T17:38:00.455Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="24098" data-filesize-percentage="28" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="24094" data-filesize-percentage="28" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Running Lights as Complex Disasters]]></title>
