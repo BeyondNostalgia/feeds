@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-07-10T05:44:34.851Z</updated>
+    <updated>2025-07-10T17:42:02.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://gwern.net/review/lemuria</id>
         <link href="https://gwern.net/review/lemuria"/>
         <updated>2025-05-02T17:38:18.904Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/lemuria" id="lemuria-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="42434" data-filesize-percentage="38" title="'Review of <em>I Remember Lemuria!</em>', Gwern 2025">Review: <em>I Remember Lemuria!</em></a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/review/lemuria" id="lemuria-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="42434" data-filesize-percentage="38" title="'Review of &lt;em&gt;I Remember Lemuria!&lt;/em&gt;', Gwern 2025">Review: <em>I Remember Lemuria!</em></a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Writing Non-Biblical Sentences]]></title>
@@ -52,7 +52,7 @@
         <id>https://gwern.net/oldest-food</id>
         <link href="https://gwern.net/oldest-food"/>
         <updated>2025-03-11T17:38:04.459Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oldest-food" id="old-food-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="15498" data-filesize-percentage="20" title="'Oldest possible food: 20<sub>mya</sub>?', Gwern 2021">On the oldest possible food</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oldest-food" id="old-food-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="15498" data-filesize-percentage="20" title="'Oldest possible food: 20&lt;sub&gt;mya&lt;/sub&gt;?', Gwern 2021">On the oldest possible food</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rock-Paper-Scissors as game mechanic]]></title>
