@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-08-16T05:40:41.558Z</updated>
+    <updated>2025-08-16T17:37:23.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://gwern.net/cat-horror</id>
         <link href="https://gwern.net/cat-horror"/>
         <updated>2025-05-12T17:39:16.872Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="32553" data-filesize-percentage="33" title="'Cats As Horror Movie Villains', Gwern 2025">Cats As Horror Movie Villains</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="32852" data-filesize-percentage="34" title="'Cats As Horror Movie Villains', Gwern 2025">Cats As Horror Movie Villains</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“October The First Is Too Late”]]></title>
