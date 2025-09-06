@@ -2,147 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://justine.lol</id>
     <title>Justine Tunney</title>
-    <updated>2025-09-05T17:36:43.601Z</updated>
+    <updated>2025-09-06T05:36:26.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://justine.lol/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[weird lexical syntax]]></title>
         <id>http://justine.lol/lex/</id>
         <link href="http://justine.lol/lex/"/>
-        <updated>2024-11-02T17:33:39.993Z</updated>
+        <updated>2025-09-06T05:36:22.357Z</updated>
         <content type="html"><![CDATA[<a href="lex/">weird lexical syntax</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[the fastest mutexes]]></title>
         <id>http://justine.lol/mutex/</id>
         <link href="http://justine.lol/mutex/"/>
-        <updated>2024-10-02T17:35:24.066Z</updated>
+        <updated>2025-09-06T05:36:22.361Z</updated>
         <content type="html"><![CDATA[<a href="mutex/">the fastest mutexes</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[llama now goes faster on cpus]]></title>
         <id>http://justine.lol/matmul/</id>
         <link href="http://justine.lol/matmul/"/>
-        <updated>2024-04-01T05:33:58.371Z</updated>
+        <updated>2025-09-06T05:36:22.361Z</updated>
         <content type="html"><![CDATA[<a href="matmul/">llama now goes faster on cpus</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cosmopolitan third edition]]></title>
         <id>http://justine.lol/cosmo3/</id>
         <link href="http://justine.lol/cosmo3/"/>
-        <updated>2023-11-10T05:32:38.098Z</updated>
+        <updated>2025-09-06T05:36:22.361Z</updated>
         <content type="html"><![CDATA[<a href="cosmo3/">cosmopolitan third edition</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bash one-liners for llms]]></title>
         <id>http://justine.lol/oneliners/</id>
         <link href="http://justine.lol/oneliners/"/>
-        <updated>2023-12-12T17:33:01.414Z</updated>
+        <updated>2025-09-06T05:36:22.363Z</updated>
         <content type="html"><![CDATA[<a href="oneliners/">bash one-liners for llms</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[lisp with gc in 436 bytes]]></title>
         <id>http://justine.lol/sectorlisp2/</id>
         <link href="http://justine.lol/sectorlisp2/"/>
-        <updated>2023-01-25T11:10:46.705Z</updated>
+        <updated>2025-09-06T05:36:22.364Z</updated>
         <content type="html"><![CDATA[<a href="sectorlisp2/">lisp with gc in 436 bytes</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[lambda calculus in 383 bytes]]></title>
         <id>http://justine.lol/lambda/</id>
         <link href="http://justine.lol/lambda/"/>
-        <updated>2023-01-25T11:10:46.702Z</updated>
+        <updated>2025-09-06T05:36:22.369Z</updated>
         <content type="html"><![CDATA[<a href="lambda/">lambda calculus in 383 bytes</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[deepmind sorting algorithm]]></title>
         <id>http://justine.lol/sorting/</id>
         <link href="http://justine.lol/sorting/"/>
-        <updated>2023-06-12T17:33:57.386Z</updated>
+        <updated>2025-09-06T05:36:22.369Z</updated>
         <content type="html"><![CDATA[<a href="sorting/">deepmind sorting algorithm</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ai training shouldn't erase authorship]]></title>
         <id>http://justine.lol/history/</id>
         <link href="http://justine.lol/history/"/>
-        <updated>2024-08-23T17:34:50.814Z</updated>
+        <updated>2025-09-06T05:36:22.370Z</updated>
         <content type="html"><![CDATA[<a href="history/">ai training shouldn't erase authorship</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[edge ai just got faster]]></title>
         <id>http://justine.lol/mmap/</id>
         <link href="http://justine.lol/mmap/"/>
-        <updated>2023-04-05T17:33:37.531Z</updated>
+        <updated>2025-09-06T05:36:22.373Z</updated>
         <content type="html"><![CDATA[<a href="mmap/">edge ai just got faster</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[portable rusage command]]></title>
         <id>http://justine.lol/rusage/</id>
         <link href="http://justine.lol/rusage/"/>
-        <updated>2023-03-16T17:34:20.120Z</updated>
+        <updated>2025-09-06T05:36:22.373Z</updated>
         <content type="html"><![CDATA[<a href="rusage/">portable rusage command</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[actually portable awk]]></title>
         <id>http://justine.lol/awk/</id>
         <link href="http://justine.lol/awk/"/>
-        <updated>2023-01-25T11:10:46.690Z</updated>
+        <updated>2025-09-06T05:36:22.374Z</updated>
         <content type="html"><![CDATA[<a href="awk/">actually portable awk</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[landlocked make]]></title>
         <id>http://justine.lol/make/</id>
         <link href="http://justine.lol/make/"/>
-        <updated>2023-01-25T11:10:46.691Z</updated>
+        <updated>2025-09-06T05:36:22.376Z</updated>
         <content type="html"><![CDATA[<a href="make/">landlocked make</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pledge() for linux]]></title>
         <id>http://justine.lol/pledge/</id>
         <link href="http://justine.lol/pledge/"/>
-        <updated>2023-01-25T11:10:46.694Z</updated>
+        <updated>2025-09-06T05:36:22.379Z</updated>
         <content type="html"><![CDATA[<a href="pledge/">pledge() for linux</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[redbean 2.0]]></title>
         <id>http://justine.lol/redbean2/</id>
         <link href="http://justine.lol/redbean2/"/>
-        <updated>2023-01-25T11:10:46.696Z</updated>
+        <updated>2025-09-06T05:36:22.381Z</updated>
         <content type="html"><![CDATA[<a href="redbean2/">redbean 2.0</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ape loader]]></title>
         <id>http://justine.lol/apeloader/</id>
         <link href="http://justine.lol/apeloader/"/>
-        <updated>2023-01-25T11:10:46.699Z</updated>
+        <updated>2025-09-06T05:36:22.382Z</updated>
         <content type="html"><![CDATA[<a href="apeloader/">ape loader</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[size optimization tricks]]></title>
         <id>http://justine.lol/sizetricks/</id>
         <link href="http://justine.lol/sizetricks/"/>
-        <updated>2023-01-25T11:10:46.699Z</updated>
+        <updated>2025-09-06T05:36:22.383Z</updated>
         <content type="html"><![CDATA[<a href="sizetricks/">size optimization tricks</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[logging c functions]]></title>
         <id>http://justine.lol/ftrace/</id>
         <link href="http://justine.lol/ftrace/"/>
-        <updated>2023-01-25T11:10:46.700Z</updated>
+        <updated>2025-09-06T05:36:22.385Z</updated>
         <content type="html"><![CDATA[<a href="ftrace/">logging c functions</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[monospace acid test]]></title>
         <id>http://justine.lol/dox/unicode.html</id>
         <link href="http://justine.lol/dox/unicode.html"/>
-        <updated>2023-01-25T11:10:46.707Z</updated>
+        <updated>2025-09-06T05:36:22.386Z</updated>
         <content type="html"><![CDATA[<a href="dox/unicode.html">monospace acid test</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[sectorlisp now fits in one sector]]></title>
         <id>http://justine.lol/sectorlisp/</id>
         <link href="http://justine.lol/sectorlisp/"/>
-        <updated>2023-01-25T11:10:46.708Z</updated>
+        <updated>2025-09-06T05:36:22.387Z</updated>
         <content type="html"><![CDATA[<a href="sectorlisp/">sectorlisp now fits in one sector</a>
 
   <!-- <li> -->
