@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-10-19T05:38:35.534Z</updated>
+    <updated>2025-10-19T17:34:31.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/ai-daydreaming</id>
         <link href="https://gwern.net/ai-daydreaming"/>
         <updated>2025-07-15T05:46:40.958Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/ai-daydreaming" id="daydreaming-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="18424" data-filesize-percentage="24" title="'LLM Daydreaming', Gwern 2025">Idea: LLM Daydreaming</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/ai-daydreaming" id="daydreaming-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="18521" data-filesize-percentage="24" title="'LLM Daydreaming', Gwern 2025">Idea: LLM Daydreaming</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Speedrunning Is Not Such A Waste]]></title>
@@ -45,7 +45,7 @@
         <id>https://gwern.net/non-biblical-sentences</id>
         <link href="https://gwern.net/non-biblical-sentences"/>
         <updated>2025-03-20T17:38:00.455Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="27740" data-filesize-percentage="31" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="27860" data-filesize-percentage="31" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Running Lights as Complex Disasters]]></title>
