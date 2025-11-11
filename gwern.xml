@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-11-11T05:40:55.730Z</updated>
+    <updated>2025-11-11T17:39:58.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://gwern.net/fiction/october</id>
         <link href="https://gwern.net/fiction/october"/>
         <updated>2025-05-10T17:35:26.638Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/october" id="october-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="103255" data-filesize-percentage="57" title="'October The First Is Too Late', Gwern 2025">“October The First Is Too Late”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/october" id="october-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="103266" data-filesize-percentage="57" title="'October The First Is Too Late', Gwern 2025">“October The First Is Too Late”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Review: I Remember Lemuria!]]></title>
@@ -45,7 +45,7 @@
         <id>https://gwern.net/non-biblical-sentences</id>
         <link href="https://gwern.net/non-biblical-sentences"/>
         <updated>2025-03-20T17:38:00.455Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="27860" data-filesize-percentage="31" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/non-biblical-sentences" id="non-biblical-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="28435" data-filesize-percentage="31" title="'LLM Challenge: Write Non-Biblical Sentences', Gwern 2024">Writing Non-Biblical Sentences</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Running Lights as Complex Disasters]]></title>
@@ -73,6 +73,6 @@
         <id>https://gwern.net/fiction/christmas</id>
         <link href="https://gwern.net/fiction/christmas"/>
         <updated>2024-12-29T05:35:38.662Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/christmas" id="christmas-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="5636" data-filesize-percentage="8" title="'A Christmas Protestation', o1-pro et al 2024">“A Christmas Protestation”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/christmas" id="christmas-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="8766" data-filesize-percentage="12" title="'A Christmas Protestation', o1-pro et al 2024">“A Christmas Protestation”</a></p>]]></content>
     </entry>
 </feed>
