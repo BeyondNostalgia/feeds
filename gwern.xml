@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-11-15T05:39:08.586Z</updated>
+    <updated>2025-11-15T17:34:53.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -66,7 +66,7 @@
         <id>https://gwern.net/rock-paper-scissors</id>
         <link href="https://gwern.net/rock-paper-scissors"/>
         <updated>2025-03-11T17:38:04.460Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rock-paper-scissors" id="rps-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="9572" data-filesize-percentage="12" title="'Rock-Paper-Scissors Optimality', Gwern 2024">Rock-Paper-Scissors as game mechanic</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rock-paper-scissors" id="rps-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="9692" data-filesize-percentage="13" title="'Rock-Paper-Scissors Optimality', Gwern 2024">Rock-Paper-Scissors as game mechanic</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“A Christmas Protestation”]]></title>
