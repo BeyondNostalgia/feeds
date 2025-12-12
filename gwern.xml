@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-12-11T17:52:08.436Z</updated>
+    <updated>2025-12-12T05:43:50.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://gwern.net/fiction/your-hands-and-mine</id>
         <link href="https://gwern.net/fiction/your-hands-and-mine"/>
         <updated>2025-12-07T17:36:15.413Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/your-hands-and-mine" id="your-hands-newest" class="prefetch-not link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="7008" data-filesize-percentage="9" title="'Your Hands And Mine', Gwern et al 2025">“Your Hands And Mine”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/your-hands-and-mine" id="your-hands-newest" class="prefetch-not link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="7027" data-filesize-percentage="9" title="'Your Hands And Mine', Gwern et al 2025">“Your Hands And Mine”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“The Fourth Truth Of Pain”]]></title>
         <id>https://gwern.net/fiction/this-last-pain</id>
         <link href="https://gwern.net/fiction/this-last-pain"/>
         <updated>2025-11-22T17:35:29.158Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/this-last-pain" id="this-last-pain-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="35031" data-filesize-percentage="34" title="'The Fourth Truth Of Pain', Gwern et al 2022">“The Fourth Truth Of Pain”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/this-last-pain" id="this-last-pain-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="35161" data-filesize-percentage="34" title="'The Fourth Truth Of Pain', Gwern et al 2022">“The Fourth Truth Of Pain”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Idea: LLM Daydreaming]]></title>
