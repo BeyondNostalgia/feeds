@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-12-22T05:45:18.065Z</updated>
+    <updated>2025-12-22T17:40:26.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/fiction/your-hands-and-mine</id>
         <link href="https://gwern.net/fiction/your-hands-and-mine"/>
         <updated>2025-12-07T17:36:15.413Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/your-hands-and-mine" id="your-hands-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="106856" data-filesize-percentage="57" title="'Your Hands And Mine', Gwern et al 2025">“Your Hands And Mine”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/your-hands-and-mine" id="your-hands-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="107936" data-filesize-percentage="58" title="'Your Hands And Mine', Gwern et al 2025">“Your Hands And Mine”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“The Fourth Truth Of Pain”]]></title>
