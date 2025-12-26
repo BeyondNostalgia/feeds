@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-12-25T17:39:38.871Z</updated>
+    <updated>2025-12-26T05:43:23.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Some2025 LLM System Prompts]]></title>
+        <id>https://gwern.net/system-prompts-2025</id>
+        <link href="https://gwern.net/system-prompts-2025"/>
+        <updated>2025-12-26T05:43:17.287Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/system-prompts-2025" id="2025-system-prompts" class="prefetch-not link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="22807" data-filesize-percentage="27"><span class="cite"><span class="cite-author">Some</span><span class="cite-date">2025</span></span> LLM System Prompts</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Your Hands And Mine”]]></title>
         <id>https://gwern.net/fiction/your-hands-and-mine</id>
@@ -67,12 +74,5 @@
         <link href="https://gwern.net/traffic-lights"/>
         <updated>2025-03-17T17:37:24.916Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/traffic-lights" id="running-lights-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="17181" data-filesize-percentage="22" title="'Running Traffic Lights as Complex Disasters', Gwern 2025">Running Lights as Complex Disasters</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the oldest possible food]]></title>
-        <id>https://gwern.net/oldest-food</id>
-        <link href="https://gwern.net/oldest-food"/>
-        <updated>2025-03-11T17:38:04.459Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/oldest-food" id="old-food-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="15498" data-filesize-percentage="20" title="'Oldest possible food: 20&lt;sub&gt;mya&lt;/sub&gt;?', Gwern 2021">On the oldest possible food</a></p>]]></content>
     </entry>
 </feed>
