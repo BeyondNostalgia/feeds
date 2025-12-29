@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-12-28T17:39:32.755Z</updated>
+    <updated>2025-12-29T05:49:50.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/claude-2</id>
         <link href="https://gwern.net/claude-2"/>
         <updated>2025-12-28T05:45:30.775Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/claude-2" id="claude-2-bats-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="26459" data-filesize-percentage="30" title="'Claude-2: Bats With Baby Faces', Claude-2 et al 2023">Claude-2: “Bats With Baby Faces”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/claude-2" id="claude-2-bats-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="26552" data-filesize-percentage="30" title="'Claude-2: Bats With Baby Faces', Claude-2 et al 2023">Claude-2: “Bats With Baby Faces”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some 2025 LLM System Prompts]]></title>
