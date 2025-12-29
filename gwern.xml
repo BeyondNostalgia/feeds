@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2025-12-29T05:49:50.427Z</updated>
+    <updated>2025-12-29T17:40:19.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://gwern.net/system-prompts-2025</id>
         <link href="https://gwern.net/system-prompts-2025"/>
         <updated>2025-12-26T05:43:17.287Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/system-prompts-2025" id="2025-system-prompts-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="23105" data-filesize-percentage="27">Some&nbsp;2025 LLM System Prompts</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/system-prompts-2025" id="2025-system-prompts-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="23122" data-filesize-percentage="27">Some&nbsp;2025 LLM System Prompts</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Your Hands And Mine”]]></title>
