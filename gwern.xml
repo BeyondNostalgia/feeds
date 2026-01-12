@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-01-12T05:50:42.640Z</updated>
+    <updated>2026-01-12T17:43:10.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/poetry-html</id>
         <link href="https://gwern.net/poetry-html"/>
         <updated>2026-01-05T05:54:31.368Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/poetry-html" id="poetry-html-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="63139" data-filesize-percentage="45" title="'Poetry HTML Typesetting', Gwern 2026">Poetry HTML Typesetting</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/poetry-html" id="poetry-html-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="63131" data-filesize-percentage="45" title="'Poetry HTML Typesetting', Gwern 2026">Poetry HTML Typesetting</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Apollonian 1: The Counted & Crowned”]]></title>
