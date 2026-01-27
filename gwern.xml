@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-01-25T17:40:28.604Z</updated>
+    <updated>2026-01-27T05:49:00.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Gwtar: static efficient single-file HTML]]></title>
+        <id>https://gwern.net/gwtar</id>
+        <link href="https://gwern.net/gwtar"/>
+        <updated>2026-01-27T05:48:53.830Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/gwtar" id="gwtar-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="28358" data-filesize-percentage="35" title="'Gwtar: a static efficient single-file HTML format', Gwern 2026">Gwtar: static efficient single-file HTML</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Video Games as Art]]></title>
         <id>https://gwern.net/video-game-art</id>
@@ -45,7 +52,7 @@
         <id>https://gwern.net/claude-2</id>
         <link href="https://gwern.net/claude-2"/>
         <updated>2025-12-28T05:45:30.775Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/claude-2" id="claude-2-bats-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="26591" data-filesize-percentage="34" title="'Claude-2: Bats With Baby Faces', Claude-2 et al 2023">Claude-2: “Bats With Baby Faces”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/claude-2" id="claude-2-bats-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="26591" data-filesize-percentage="33" title="'Claude-2: Bats With Baby Faces', Claude-2 et al 2023">Claude-2: “Bats With Baby Faces”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some 2025 LLM System Prompts]]></title>
@@ -81,12 +88,5 @@
         <link href="https://gwern.net/speedrunning"/>
         <updated>2025-05-15T05:41:21.046Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/speedrunning" id="speedrunning-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="15950" data-filesize-percentage="23" title="'Speedrunning Is Not Such A Waste Of Talent', Gwern 2025">Speedrunning Is Not Such A Waste</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cats As Horror Movie Villains]]></title>
-        <id>https://gwern.net/cat-horror</id>
-        <link href="https://gwern.net/cat-horror"/>
-        <updated>2025-05-12T17:39:16.872Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/cat-horror" id="cat-horror-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="33210" data-filesize-percentage="37" title="'Cats As Horror Movie Villains', Gwern 2025">Cats As Horror Movie Villains</a></p>]]></content>
     </entry>
 </feed>
