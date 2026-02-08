@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-02-08T06:11:32.568Z</updated>
+    <updated>2026-02-08T17:50:19.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://gwern.net/gwtar</id>
         <link href="https://gwern.net/gwtar"/>
         <updated>2026-01-27T05:48:53.830Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/gwtar" id="gwtar-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="32210" data-filesize-percentage="37" title="'Gwtar: a static efficient single-file HTML format', Gwern 2026">Gwtar: static efficient single-file HTML</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/gwtar" id="gwtar-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="34123" data-filesize-percentage="38" title="'Gwtar: a static efficient single-file HTML format', Gwern 2026">Gwtar: static efficient single-file HTML</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Video Games as Art]]></title>
