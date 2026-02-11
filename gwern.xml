@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-02-10T18:15:52.263Z</updated>
+    <updated>2026-02-11T06:38:27.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/spfn</id>
         <link href="https://gwern.net/spfn"/>
         <updated>2026-02-10T18:15:45.322Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/spfn" id="spfn-newest" class="prefetch-not link-page link-modified-recently has-content spawns-popin in-list">Train Bayesian LLMs by Reversing Stan</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/spfn" id="spfn-newest" class="prefetch-not link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="25198" data-filesize-percentage="32">Train Bayesian LLMs by Reversing Stan</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hacking Smartphone ESP Apps]]></title>
@@ -38,7 +38,7 @@
         <id>https://gwern.net/video-game-art</id>
         <link href="https://gwern.net/video-game-art"/>
         <updated>2026-01-18T17:40:17.222Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/video-game-art" id="video-game-art-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="19787" data-filesize-percentage="28" title="'Video Games as Art', Gwern 2025">Video Games as Art</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/video-game-art" id="video-game-art-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="19787" data-filesize-percentage="27" title="'Video Games as Art', Gwern 2025">Video Games as Art</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How many shower controls are there?]]></title>
