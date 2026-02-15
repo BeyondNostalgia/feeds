@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-02-14T17:48:17.849Z</updated>
+    <updated>2026-02-15T06:11:38.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“Spoilage”]]></title>
+        <id>https://gwern.net/fiction/spoilage</id>
+        <link href="https://gwern.net/fiction/spoilage"/>
+        <updated>2026-02-15T06:11:31.737Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/spoilage" id="spoilage-newest" class="prefetch-not link-page link-modified-recently in-list has-content spawns-popin">“Spoilage”</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview on risktaking & self-experiment/QS]]></title>
+        <id>https://gwern.net/interview-risk</id>
+        <link href="https://gwern.net/interview-risk"/>
+        <updated>2026-02-15T06:11:31.739Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-risk" id="risktaking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="48532" data-filesize-percentage="44" title="'Self-experiment risk-taking interview', Nostrand &amp; Gwern 2026">Interview on risktaking &amp; self-experiment/<wbr>QS</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Train Bayesian LLMs by Reversing Stan]]></title>
         <id>https://gwern.net/spfn</id>
         <link href="https://gwern.net/spfn"/>
         <updated>2026-02-10T18:15:45.322Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/spfn" id="spfn-newest" class="prefetch-not link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="25198" data-filesize-percentage="32">Train Bayesian LLMs by Reversing Stan</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/spfn" id="spfn-newest" class="prefetch-not link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="25204" data-filesize-percentage="32">Train Bayesian LLMs by Reversing Stan</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hacking Smartphone ESP Apps]]></title>
@@ -52,7 +66,7 @@
         <id>https://gwern.net/poetry-html</id>
         <link href="https://gwern.net/poetry-html"/>
         <updated>2026-01-05T05:54:31.368Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/poetry-html" id="poetry-html-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="65445" data-filesize-percentage="49" title="'Poetry HTML Typesetting', Gwern 2026">Poetry HTML Typesetting</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/poetry-html" id="poetry-html-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="65446" data-filesize-percentage="49" title="'Poetry HTML Typesetting', Gwern 2026">Poetry HTML Typesetting</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Apollonian 1: The Counted & Crowned”]]></title>
@@ -66,7 +80,7 @@
         <id>https://gwern.net/system-prompts-2025</id>
         <link href="https://gwern.net/system-prompts-2025"/>
         <updated>2025-12-26T05:43:17.287Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/system-prompts-2025" id="2025-system-prompts-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="41460" data-filesize-percentage="41" title="'Some 2025 LLM System Prompts', Gwern et al 2025">Some&nbsp;2025 LLM System Prompts</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/system-prompts-2025" id="2025-system-prompts-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="41461" data-filesize-percentage="41" title="'Some 2025 LLM System Prompts', Gwern et al 2025">Some&nbsp;2025 LLM System Prompts</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Your Hands And Mine”]]></title>
