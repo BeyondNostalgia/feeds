@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-03-11T06:07:15.157Z</updated>
+    <updated>2026-03-11T18:07:34.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/fiction/alice</id>
         <link href="https://gwern.net/fiction/alice"/>
         <updated>2026-03-09T06:14:34.292Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/alice" id="alice-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="85415" data-filesize-percentage="54" title="'Apollonian #2: A Poet Teaches AIs', Gwern et al 2026">“Apollonian #2: A Poet Teaches AIs”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/alice" id="alice-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="87397" data-filesize-percentage="55" title="'Apollonian #2: A Poet Teaches AIs', Gwern et al 2026">“Apollonian #2: A Poet Teaches AIs”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Spoilage”]]></title>
