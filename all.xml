@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-18T18:40:39.306Z</updated>
+    <updated>2026-03-19T06:33:10.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[How Long Would “Weird Al” Survive In A Freezer? (Gwern Branwen)]]></title>
         <id>https://gwern.net/rocky-road</id>
         <link href="https://gwern.net/rocky-road"/>
         <updated>2026-03-17T06:37:18.924Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rocky-road" id="rocky-road-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="51080" data-filesize-percentage="45">How Long Would “Weird Al” Survive In A Freezer?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rocky-road" id="rocky-road-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="51080" data-filesize-percentage="45">How Long Would “Weird Al” Survive In A Freezer?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Apollonian #2: A Poet Teaches AIs” (Gwern Branwen)]]></title>
         <id>https://gwern.net/fiction/alice</id>
         <link href="https://gwern.net/fiction/alice"/>
         <updated>2026-03-09T06:14:34.292Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/alice" id="alice-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="87405" data-filesize-percentage="55" title="'Apollonian #2: A Poet Teaches AIs', Gwern et al 2026">“Apollonian #2: A Poet Teaches AIs”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/alice" id="alice-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="87405" data-filesize-percentage="55" title="'Apollonian #2: A Poet Teaches AIs', Gwern et al 2026">“Apollonian #2: A Poet Teaches AIs”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Spoilage” (Gwern Branwen)]]></title>
         <id>https://gwern.net/fiction/spoilage</id>
         <link href="https://gwern.net/fiction/spoilage"/>
         <updated>2026-02-15T06:11:31.737Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/spoilage" id="spoilage-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="152189" data-filesize-percentage="67" title="'Spoilage', Pro et al 2026">“Spoilage”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/spoilage" id="spoilage-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="152189" data-filesize-percentage="67" title="'Spoilage', Pro et al 2026">“Spoilage”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Interview on risktaking & self-experiment (Gwern Branwen)]]></title>
         <id>https://gwern.net/interview-risk</id>
         <link href="https://gwern.net/interview-risk"/>
         <updated>2026-02-15T06:11:31.739Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-risk" id="risktaking-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="49258" data-filesize-percentage="45" title="'Self-experiment risk-taking interview', Nostrand &amp; Gwern 2026">Interview on risktaking &amp; self-experiment</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-risk" id="risktaking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="49258" data-filesize-percentage="45" title="'Self-experiment risk-taking interview', Nostrand &amp; Gwern 2026">Interview on risktaking &amp; self-experiment</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Train Bayesian LLMs by Reversing Stan (Gwern Branwen)]]></title>
         <id>https://gwern.net/spfn</id>
         <link href="https://gwern.net/spfn"/>
         <updated>2026-02-10T18:15:45.322Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/spfn" id="spfn-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="25204" data-filesize-percentage="32" title="'Symbolic PFNs (SPFNs): Training LLMs for Symbolic Bayesian Inference by Reversing Stan', Gwern 2026">Train Bayesian LLMs by Reversing Stan</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/spfn" id="spfn-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="25204" data-filesize-percentage="32" title="'Symbolic PFNs (SPFNs): Training LLMs for Symbolic Bayesian Inference by Reversing Stan', Gwern 2026">Train Bayesian LLMs by Reversing Stan</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hacking Smartphone ESP Apps (Gwern Branwen)]]></title>
         <id>https://gwern.net/esp-hacking</id>
         <link href="https://gwern.net/esp-hacking"/>
         <updated>2026-02-09T18:09:11.124Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/esp-hacking" id="esp-hacking-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="23452" data-filesize-percentage="31" title="'Hacking Smartphone ESP Apps', Gwern 2026">Hacking Smartphone ESP Apps</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/esp-hacking" id="esp-hacking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="23452" data-filesize-percentage="31" title="'Hacking Smartphone ESP Apps', Gwern 2026">Hacking Smartphone ESP Apps</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inkhaven interview on writing ideas (Gwern Branwen)]]></title>
         <id>https://gwern.net/interview-inkhaven</id>
         <link href="https://gwern.net/interview-inkhaven"/>
         <updated>2026-02-01T06:11:14.573Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-inkhaven" id="inkhaven-interview-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="67103" data-filesize-percentage="49" title="'2025 Inkhaven Writing Interview', Gwern &amp; Mastroianni 2025">Inkhaven interview on writing ideas</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-inkhaven" id="inkhaven-interview-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="67103" data-filesize-percentage="49" title="'2025 Inkhaven Writing Interview', Gwern &amp; Mastroianni 2025">Inkhaven interview on writing ideas</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gwtar: static efficient single-file HTML (Gwern Branwen)]]></title>
         <id>https://gwern.net/gwtar</id>
         <link href="https://gwern.net/gwtar"/>
         <updated>2026-01-27T05:48:53.830Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/gwtar" id="gwtar-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="34831" data-filesize-percentage="38" title="'Gwtar: a static efficient single-file HTML format', Gwern 2026">Gwtar: static efficient single-file HTML</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/gwtar" id="gwtar-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="34831" data-filesize-percentage="38" title="'Gwtar: a static efficient single-file HTML format', Gwern 2026">Gwtar: static efficient single-file HTML</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How many shower controls are there? (Gwern Branwen)]]></title>
         <id>https://gwern.net/shower-controls</id>
         <link href="https://gwern.net/shower-controls"/>
         <updated>2026-01-16T17:45:20.956Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/shower-controls" id="shower-controls-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="18534" data-filesize-percentage="27" title="'How Many Shower Controls Are There?', Gwern &amp; Pro 2023">How many shower controls are there?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/shower-controls" id="shower-controls-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="18534" data-filesize-percentage="27" title="'How Many Shower Controls Are There?', Gwern &amp; Pro 2023">How many shower controls are there?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Poetry HTML Typesetting (Gwern Branwen)]]></title>
         <id>https://gwern.net/poetry-html</id>
         <link href="https://gwern.net/poetry-html"/>
         <updated>2026-01-05T05:54:31.368Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/poetry-html" id="poetry-html-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="65650" data-filesize-percentage="49" title="'Poetry HTML Typesetting', Gwern 2026">Poetry HTML Typesetting</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/poetry-html" id="poetry-html-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="65650" data-filesize-percentage="49" title="'Poetry HTML Typesetting', Gwern 2026">Poetry HTML Typesetting</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Apollonian 1: The Counted & Crowned” (Gwern Branwen)]]></title>
         <id>https://gwern.net/fiction/lab-animals</id>
         <link href="https://gwern.net/fiction/lab-animals"/>
         <updated>2026-01-01T17:41:01.036Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/lab-animals" id="lab-animals-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="20394" data-filesize-percentage="28" title="'Apollonian #1: The Counted &amp;amp; the Crowned', Gwern et al 2025">“Apollonian 1: The Counted &amp; Crowned”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/lab-animals" id="lab-animals-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="20394" data-filesize-percentage="28" title="'Apollonian #1: The Counted &amp;amp; the Crowned', Gwern et al 2025">“Apollonian 1: The Counted &amp; Crowned”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Your Hands And Mine” (Gwern Branwen)]]></title>
         <id>https://gwern.net/fiction/your-hands-and-mine</id>
         <link href="https://gwern.net/fiction/your-hands-and-mine"/>
         <updated>2025-12-07T17:36:15.413Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/your-hands-and-mine" id="your-hands-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="111248" data-filesize-percentage="61" title="'Your Hands And Mine', Gwern et al 2025">“Your Hands And Mine”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/your-hands-and-mine" id="your-hands-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="111248" data-filesize-percentage="61" title="'Your Hands And Mine', Gwern et al 2025">“Your Hands And Mine”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[hammurabi currency converter (Justine Tunney)]]></title>
