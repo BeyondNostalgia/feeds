@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BeyondNostalgia.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-24T18:12:25.672Z</updated>
+    <updated>2026-03-25T06:36:50.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[How Long Would “Weird Al” Survive In A Freezer? (Gwern Branwen)]]></title>
@@ -65,7 +65,7 @@
         <id>https://gwern.net/shower-controls</id>
         <link href="https://gwern.net/shower-controls"/>
         <updated>2026-01-16T17:45:20.956Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/shower-controls" id="shower-controls-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="18534" data-filesize-percentage="27" title="'How Many Shower Controls Are There?', Gwern &amp; Pro 2023">How many shower controls are there?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/shower-controls" id="shower-controls-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="18534" data-filesize-percentage="26" title="'How Many Shower Controls Are There?', Gwern &amp; Pro 2023">How many shower controls are there?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Poetry HTML Typesetting (Gwern Branwen)]]></title>
