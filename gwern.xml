@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-03-29T06:39:23.624Z</updated>
+    <updated>2026-03-29T17:54:21.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://gwern.net/interview-risk</id>
         <link href="https://gwern.net/interview-risk"/>
         <updated>2026-02-15T06:11:31.739Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-risk" id="risktaking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="49403" data-filesize-percentage="45" title="'Self-experiment risk-taking interview', Nostrand &amp; Gwern 2026">Interview on risktaking &amp; self-experiment</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-risk" id="risktaking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="49572" data-filesize-percentage="45" title="'Self-experiment risk-taking interview', Nostrand &amp; Gwern 2026">Interview on risktaking &amp; self-experiment</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Train Bayesian LLMs by Reversing Stan]]></title>
