@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-04-04T06:47:51.473Z</updated>
+    <updated>2026-04-04T17:54:05.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://gwern.net/fiction/pindaric-strict</id>
         <link href="https://gwern.net/fiction/pindaric-strict"/>
         <updated>2026-04-02T06:45:46.336Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/pindaric-strict" id="strict-pindaric-newest" class="prefetch-not link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="56475" data-filesize-percentage="47">A Strict Pindaric Meter</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/pindaric-strict" id="strict-pindaric-newest" class="prefetch-not link-page link-modified-recently has-content spawns-popin in-list" data-filesize-bytes="56507" data-filesize-percentage="47">A Strict Pindaric Meter</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“At a Red Light” writing experiment]]></title>
         <id>https://gwern.net/fiction/hays</id>
         <link href="https://gwern.net/fiction/hays"/>
         <updated>2026-03-26T18:13:55.817Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/hays" id="red-light-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="31754" data-filesize-percentage="37" title="'Human Perception at a Red Light', Gwern &amp; Pro 2026">“At a Red Light” writing experiment</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/hays" id="red-light-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="31822" data-filesize-percentage="37" title="'Human Perception at a Red Light', Gwern &amp; Pro 2026">“At a Red Light” writing experiment</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How Long Would “Weird Al” Survive In A Freezer?]]></title>
