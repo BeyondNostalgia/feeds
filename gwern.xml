@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-04-07T18:13:25.367Z</updated>
+    <updated>2026-04-08T06:52:51.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/fiction/craneyard</id>
         <link href="https://gwern.net/fiction/craneyard"/>
         <updated>2026-04-06T07:06:52.347Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/craneyard" id="crane-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="45231" data-filesize-percentage="42">“Elegy in a Craneyard”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/craneyard" id="crane-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popin" data-filesize-bytes="46425" data-filesize-percentage="43">“Elegy in a Craneyard”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Strict Pindaric Meter]]></title>
@@ -31,7 +31,7 @@
         <id>https://gwern.net/rocky-road</id>
         <link href="https://gwern.net/rocky-road"/>
         <updated>2026-03-17T06:37:18.924Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rocky-road" id="rocky-road-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="51786" data-filesize-percentage="45" title="'How Long Would ‘Weird Al’ Survive In An Ice Cream Freezer?', Gwern et al 2026">How Long Would “Weird Al” Survive In A Freezer?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rocky-road" id="rocky-road-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popin" data-filesize-bytes="51802" data-filesize-percentage="45" title="'How Long Would ‘Weird Al’ Survive In An Ice Cream Freezer?', Gwern et al 2026">How Long Would “Weird Al” Survive In A Freezer?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Apollonian #2: A Poet Teaches AIs”]]></title>
