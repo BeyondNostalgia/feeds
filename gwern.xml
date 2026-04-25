@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-04-24T18:04:25.005Z</updated>
+    <updated>2026-04-25T06:49:05.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/fiction/astrology</id>
         <link href="https://gwern.net/fiction/astrology"/>
         <updated>2026-04-23T07:13:58.146Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/astrology" id="stars-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="73827" data-filesize-percentage="51" title="'The City of Counted Stars', Gwern et al 2026">“The City of Counted Stars”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/astrology" id="stars-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popin in-list" data-filesize-bytes="73841" data-filesize-percentage="51" title="'The City of Counted Stars', Gwern et al 2026">“The City of Counted Stars”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Elegy in a Craneyard”]]></title>
