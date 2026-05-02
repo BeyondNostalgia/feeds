@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-05-01T18:36:58.366Z</updated>
+    <updated>2026-05-02T07:11:15.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,21 +10,21 @@
         <id>https://gwern.net/fiction/astrology</id>
         <link href="https://gwern.net/fiction/astrology"/>
         <updated>2026-04-23T07:13:58.146Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/astrology" id="stars-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="75536" data-filesize-percentage="51" title="'The City of Counted Stars', Gwern et al 2026">“The City of Counted Stars”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/astrology" id="stars-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="76160" data-filesize-percentage="51" title="'The City of Counted Stars', Gwern et al 2026">“The City of Counted Stars”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Elegy in a Craneyard”]]></title>
         <id>https://gwern.net/fiction/craneyard</id>
         <link href="https://gwern.net/fiction/craneyard"/>
         <updated>2026-04-06T07:06:52.347Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/craneyard" id="crane-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently has-content spawns-popover in-list" data-filesize-bytes="64216" data-filesize-percentage="47">“Elegy in a Craneyard”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/craneyard" id="crane-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="64216" data-filesize-percentage="47" title="'Elegy in a Craneyard', Gwern et al 2026">“Elegy in a Craneyard”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Strict Pindaric Meter]]></title>
         <id>https://gwern.net/fiction/pindaric-strict</id>
         <link href="https://gwern.net/fiction/pindaric-strict"/>
         <updated>2026-04-02T06:45:46.336Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/pindaric-strict" id="strict-pindaric-newest" class="prefetch-not link-page link-modified-recently has-content spawns-popover in-list" data-filesize-bytes="57021" data-filesize-percentage="45">A Strict Pindaric Meter</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/pindaric-strict" id="strict-pindaric-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="57021" data-filesize-percentage="45" title="'A Strict Pindaric Meter', Gwern et al 2026">A Strict Pindaric Meter</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“At a Red Light” writing experiment]]></title>
@@ -38,7 +38,7 @@
         <id>https://gwern.net/rocky-road</id>
         <link href="https://gwern.net/rocky-road"/>
         <updated>2026-03-17T06:37:18.924Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rocky-road" id="rocky-road-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="51802" data-filesize-percentage="44" title="'How Long Would ‘Weird Al’ Survive In An Ice Cream Freezer?', Gwern et al 2026">How Long Would “Weird Al” Survive In A Freezer?</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rocky-road" id="rocky-road-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="52032" data-filesize-percentage="44" title="'How Long Would ‘Weird Al’ Survive In An Ice Cream Freezer?', Gwern et al 2026">How Long Would “Weird Al” Survive In A Freezer?</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Apollonian #2: A Poet Teaches AIs”]]></title>
@@ -66,14 +66,14 @@
         <id>https://gwern.net/interview-inkhaven</id>
         <link href="https://gwern.net/interview-inkhaven"/>
         <updated>2026-02-01T06:11:14.573Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-inkhaven" id="inkhaven-interview-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="67886" data-filesize-percentage="48" title="'2025 Inkhaven Writing Interview', Gwern &amp; Mastroianni 2025">Inkhaven interview on writing ideas</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-inkhaven" id="inkhaven-interview-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="67979" data-filesize-percentage="48" title="'2025 Inkhaven Writing Interview', Gwern &amp; Mastroianni 2025">Inkhaven interview on writing ideas</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gwtar: static efficient single-file HTML]]></title>
         <id>https://gwern.net/gwtar</id>
         <link href="https://gwern.net/gwtar"/>
         <updated>2026-01-27T05:48:53.830Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/gwtar" id="gwtar-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="34831" data-filesize-percentage="36" title="'Gwtar: a static efficient single-file HTML format', Gwern 2026">Gwtar: static efficient single-file HTML</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/gwtar" id="gwtar-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="35007" data-filesize-percentage="36" title="'Gwtar: a static efficient single-file HTML format', Gwern 2026">Gwtar: static efficient single-file HTML</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Poetry HTML Typesetting]]></title>
@@ -87,6 +87,6 @@
         <id>https://gwern.net/fiction/lab-animals</id>
         <link href="https://gwern.net/fiction/lab-animals"/>
         <updated>2026-01-01T17:41:01.036Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/lab-animals" id="lab-animals-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="20394" data-filesize-percentage="27" title="'Apollonian #1: The Counted &amp;amp; the Crowned', Gwern et al 2025">“Apollonian 1: The Counted &amp; Crowned”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/lab-animals" id="lab-animals-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popover in-list" data-filesize-bytes="20394" data-filesize-percentage="27" title="'Apollonian #1: The Counted &amp; the Crowned', Gwern et al 2025">“Apollonian 1: The Counted &amp; Crowned”</a></p>]]></content>
     </entry>
 </feed>
