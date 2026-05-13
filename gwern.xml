@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-05-12T19:14:54.269Z</updated>
+    <updated>2026-05-13T08:14:12.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/polish</id>
         <link href="https://gwern.net/polish"/>
         <updated>2026-05-12T08:07:00.280Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/polish" id="polish-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Top-𝑘 Reading: Against Polishing the Median Essay', Gwern 2026">“Top-<em>k</em> Reading: Against Polishing Median Essays”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/polish" id="polish-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Top-&lt;em&gt;k&lt;/em&gt; Reading: Against Polishing the Median Essay', Gwern 2026">“Top-<em>k</em> Reading: Against Polishing Median Essays”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“‘Try, Score, Change’: RL for Children”]]></title>
