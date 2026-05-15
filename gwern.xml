@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-05-14T19:15:20.785Z</updated>
+    <updated>2026-05-15T08:24:40.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
-        <title type="html"><![CDATA[“Top-k Reading: Against Polishing Median Essays”]]></title>
+        <title type="html"><![CDATA[“NYT & Vaping: How To Lie By Saying Only Truth”]]></title>
+        <id>https://gwern.net/vaping</id>
+        <link href="https://gwern.net/vaping"/>
+        <updated>2026-05-15T08:24:34.608Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/vaping" id="vaping-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'NYT and Vaping: How To Lie By Saying Only True Things', Gwern 2022">“NYT &amp; Vaping: How To Lie By Saying Only Truth”</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Top-k Reading: Don’t Polish Median Essays”]]></title>
         <id>https://gwern.net/polish</id>
         <link href="https://gwern.net/polish"/>
         <updated>2026-05-12T08:07:00.280Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/polish" id="polish-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Top-&lt;em&gt;k&lt;/em&gt; Reading: Against Polishing the Median Essay', Gwern 2026">“Top-<em>k</em> Reading: Against Polishing Median Essays”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/polish" id="polish-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Top-&lt;em&gt;k&lt;/em&gt; Reading: Against Polishing the Median Essay', Gwern 2026">“Top-<em>k</em> Reading: Don’t Polish Median Essays”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“‘Try, Score, Change’: RL for Children”]]></title>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/fiction/spoilage"/>
         <updated>2026-02-15T06:11:31.737Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/spoilage" id="spoilage-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Spoilage', Pro et al 2026">“Spoilage”</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inkhaven interview on writing ideas]]></title>
-        <id>https://gwern.net/interview-inkhaven</id>
-        <link href="https://gwern.net/interview-inkhaven"/>
-        <updated>2026-02-01T06:11:14.573Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/interview-inkhaven" id="inkhaven-interview-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'2025 Inkhaven Writing Interview', Gwern &amp; Mastroianni 2025">Inkhaven interview on writing ideas</a></p>]]></content>
     </entry>
 </feed>
