@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-05-17T18:34:13.777Z</updated>
+    <updated>2026-05-18T08:55:07.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/vaping</id>
         <link href="https://gwern.net/vaping"/>
         <updated>2026-05-15T08:24:34.608Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/vaping" id="vaping-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'NYT and Vaping: How To Lie By Saying Only True Things', Gwern 2022">“NYT &amp; Vaping: How To Lie With The Truth”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/vaping" id="vaping-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'NYT and Vaping: How to Lie By Saying Only True Things', Gwern 2022">“NYT &amp; Vaping: How To Lie With The Truth”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Top-k Reading: Don’t Polish Median Essays”]]></title>
