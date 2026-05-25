@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-05-24T18:34:24.366Z</updated>
+    <updated>2026-05-25T09:09:20.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://gwern.net/grow-speech</id>
         <link href="https://gwern.net/grow-speech"/>
         <updated>2026-05-07T19:10:48.279Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/grow-speech" id="grow-speech-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Grow-Speech Specification', Gwern et al 2026">Grow-Speech Specification</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/grow-speech" id="grow-speech-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Grow-Speech Specification', Gwern et al 2026">Grow-Speech Specification</a>; <a href="/go-speech" id="go-speech-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Go-Speech Specification', Pro et al 2026">Go-Speech</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“The City of Counted Stars”]]></title>
