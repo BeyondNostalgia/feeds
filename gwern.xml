@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-05-27T19:35:51.874Z</updated>
+    <updated>2026-05-28T08:56:49.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/generating-style</id>
         <link href="https://gwern.net/generating-style"/>
         <updated>2026-05-22T08:35:03.125Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/generating-style" id="generating-style-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently in-list has-content spawns-popup">“Style-Aware Generative Models”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/generating-style" id="generating-style-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Style-Aware Generative Models', Gwern 2025">“Style-Aware Generative Models”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“NYT & Vaping: How To Lie With The Truth”]]></title>
