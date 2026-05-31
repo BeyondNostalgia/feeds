@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://justine.lol</id>
     <title>Justine Tunney</title>
-    <updated>2026-05-31T08:24:43.213Z</updated>
+    <updated>2026-05-31T18:41:05.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://justine.lol/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[restartable sequences]]></title>
+        <id>http://justine.lol/rseq/</id>
+        <link href="http://justine.lol/rseq/"/>
+        <updated>2026-05-31T18:41:01.558Z</updated>
+        <content type="html"><![CDATA[<a href="rseq/">restartable sequences</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[weird lexical syntax]]></title>
         <id>http://justine.lol/lex/</id>
