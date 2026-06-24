@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-06-24T08:38:05.023Z</updated>
+    <updated>2026-06-24T19:08:35.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gwern.net/lean-scaling</id>
         <link href="https://gwern.net/lean-scaling"/>
         <updated>2026-06-24T08:37:59.191Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/lean-scaling" id="lean-scaling-newest" class="prefetch-not link-page link-modified-recently has-content spawns-popup in-list">Idea: Lean scaling laws</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/lean-scaling" id="lean-scaling-newest" class="prefetch-not link-annotated-partial link-page link-modified-recently has-content spawns-popup in-list">Idea: Lean scaling laws</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Sand, Rain, Wood”]]></title>
