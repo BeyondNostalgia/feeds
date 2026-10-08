@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-10-07T22:08:09.140Z</updated>
+    <updated>2026-10-08T12:09:09.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“She’s She, and I’m I”]]></title>
+        <id>https://gwern.net/fiction/mirror</id>
+        <link href="https://gwern.net/fiction/mirror"/>
+        <updated>2026-10-08T12:09:02.805Z</updated>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/mirror" id="mirror-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'She’s She, and I’m I', Gwern &amp; Claude-5.1-Fable 2026">“She’s She, and I’m I”</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Idea: Lean scaling laws]]></title>
         <id>https://gwern.net/lean-scaling</id>
@@ -74,12 +81,5 @@
         <link href="https://gwern.net/fiction/astrology"/>
         <updated>2026-09-30T11:15:49.930Z</updated>
         <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/astrology" id="stars-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'The City of Counted Stars', Gwern et al 2026">“The City of Counted Stars”</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Elegy in a Craneyard”]]></title>
-        <id>https://gwern.net/fiction/craneyard</id>
-        <link href="https://gwern.net/fiction/craneyard"/>
-        <updated>2026-09-30T11:15:49.932Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/craneyard" id="crane-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Elegy in a Craneyard', Gwern et al 2026">“Elegy in a Craneyard”</a></p>]]></content>
     </entry>
 </feed>
