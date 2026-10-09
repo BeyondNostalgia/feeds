@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwern.net/</id>
     <title>Gwern Branwen</title>
-    <updated>2026-10-09T12:00:40.655Z</updated>
+    <updated>2026-10-09T21:48:45.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gwern.net/static/img/logo/logo-favicon-small.png</icon>
     <entry>
@@ -10,76 +10,76 @@
         <id>https://gwern.net/fiction/mirror</id>
         <link href="https://gwern.net/fiction/mirror"/>
         <updated>2026-10-08T12:09:02.805Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/mirror" id="mirror-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'She’s She, and I’m I', Gwern &amp; Claude-5.1-Fable 2026">“She’s She, and I’m I”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/mirror" id="mirror-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'She’s She, and I’m I', Gwern &amp; Claude-5.1-Fable 2026">“She’s She, and I’m I”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Idea: Lean scaling laws]]></title>
         <id>https://gwern.net/lean-scaling</id>
         <link href="https://gwern.net/lean-scaling"/>
         <updated>2026-09-30T11:15:49.915Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/lean-scaling" id="lean-scaling-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Lean Software Scaling Laws', Gwern 2025">Idea: Lean scaling laws</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/lean-scaling" id="lean-scaling-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Lean Software Scaling Laws', Gwern 2025">Idea: Lean scaling laws</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Sand, Rain, Wood”]]></title>
         <id>https://gwern.net/fiction/walking</id>
         <link href="https://gwern.net/fiction/walking"/>
         <updated>2026-09-30T11:15:49.917Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/walking" id="walking-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Sand, Rain, Wood', Gemini-3.1-pro-preview et al 2026">“Sand, Rain, Wood”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/walking" id="walking-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Sand, Rain, Wood', Gemini-3.1-pro-preview et al 2026">“Sand, Rain, Wood”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Chapter 6, Mime Molting: What to Expect”]]></title>
         <id>https://gwern.net/fiction/molting</id>
         <link href="https://gwern.net/fiction/molting"/>
         <updated>2026-09-30T11:15:49.917Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/molting" id="molting-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Chapter 6, Mime Molting: What to Expect', Claude-4.8-opus et al 2026">“Chapter 6, Mime Molting: What to Expect”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/molting" id="molting-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Chapter 6, Mime Molting: What to Expect', Claude-4.8-opus et al 2026">“Chapter 6, Mime Molting: What to Expect”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Guardian Angels: Deep LLM Personalization”]]></title>
         <id>https://gwern.net/guardian-angel</id>
         <link href="https://gwern.net/guardian-angel"/>
         <updated>2026-09-30T11:15:49.919Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/guardian-angel" id="guardian-angel-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Guardian Angels: LLM Personalization for Productivity and Security', Gwern 2025">“Guardian Angels: Deep LLM Personalization”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/guardian-angel" id="guardian-angel-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Guardian Angels: LLM Personalization for Productivity and Security', Gwern 2025">“Guardian Angels: Deep LLM Personalization”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Human-like Neural Nets by Catapulting”]]></title>
         <id>https://gwern.net/llm-catapult</id>
         <link href="https://gwern.net/llm-catapult"/>
         <updated>2026-09-30T11:15:49.921Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/llm-catapult" id="llm-catapulting-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Human-like Neural Nets by Catapulting', Gwern 2024">“Human-like Neural Nets by Catapulting”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/llm-catapult" id="llm-catapulting-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Human-like Neural Nets by Catapulting', Gwern 2024">“Human-like Neural Nets by Catapulting”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Style-Aware Generative Models”]]></title>
         <id>https://gwern.net/generating-style</id>
         <link href="https://gwern.net/generating-style"/>
         <updated>2026-09-30T11:15:49.923Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/generating-style" id="generating-style-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Style-Aware Generative Models', Gwern 2025">“Style-Aware Generative Models”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/generating-style" id="generating-style-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Style-Aware Generative Models', Gwern 2025">“Style-Aware Generative Models”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“NYT & Vaping: How To Lie With The Truth”]]></title>
         <id>https://gwern.net/vaping</id>
         <link href="https://gwern.net/vaping"/>
         <updated>2026-09-30T11:15:49.925Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/vaping" id="vaping-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'NYT and Vaping: How to Lie By Saying Only True Things', Gwern 2022">“NYT &amp; Vaping: How To Lie With The Truth”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/vaping" id="vaping-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'NYT and Vaping: How to Lie By Saying Only True Things', Gwern 2022">“NYT &amp; Vaping: How To Lie With The Truth”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Top-k Reading: Don’t Polish Median Essays”]]></title>
         <id>https://gwern.net/polish</id>
         <link href="https://gwern.net/polish"/>
         <updated>2026-09-30T11:15:49.926Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/polish" id="polish-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'Top-𝑘 Reading: Against Polishing the Median Essay', Gwern 2026">“Top-<em>k</em> Reading: Don’t Polish Median Essays”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/polish" id="polish-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'Top-𝑘 Reading: Against Polishing the Median Essay', Gwern 2026">“Top-<em>k</em> Reading: Don’t Polish Median Essays”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“‘Try, Score, Change’: RL for Children”]]></title>
         <id>https://gwern.net/rl-children</id>
         <link href="https://gwern.net/rl-children"/>
         <updated>2026-09-30T11:15:49.929Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rl-children" id="rl-children-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'‘Try, Score, Change’: Reinforcement Learning for Children', Pro et al 2026">“‘Try, Score, Change’: RL for Children”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/rl-children" id="rl-children-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'‘Try, Score, Change’: Reinforcement Learning for Children', Pro et al 2026">“‘Try, Score, Change’: RL for Children”</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“The City of Counted Stars”]]></title>
         <id>https://gwern.net/fiction/astrology</id>
         <link href="https://gwern.net/fiction/astrology"/>
         <updated>2026-09-30T11:15:49.930Z</updated>
-        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/astrology" id="stars-newest" class="prefetch-not link-annotated link-page link-modified-recently has-annotation spawns-popup in-list" data-attribute-title="'The City of Counted Stars', Gwern et al 2026">“The City of Counted Stars”</a></p>]]></content>
+        <content type="html"><![CDATA[<p class="in-list first-graf block" style="--bsm: 0;"><a href="/fiction/astrology" id="stars-newest" class="prefetch-not link-annotated link-page link-modified-recently in-list has-annotation spawns-popup" data-attribute-title="'The City of Counted Stars', Gwern et al 2026">“The City of Counted Stars”</a></p>]]></content>
     </entry>
 </feed>
